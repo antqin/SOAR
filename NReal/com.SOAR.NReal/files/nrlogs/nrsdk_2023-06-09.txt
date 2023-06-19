@@ -1,0 +1,2432 @@
+[2023-06-09 00:18:12.656] [9782] [WARN] [NRSDK] Log Info: pid:9734, time:2023-06-09 00:18:12 (-0700)
+[2023-06-09 00:18:12.658] [9782] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:18:12.658] [9782] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:18:12.672] [9782] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:18:12.714] [9782] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:18:15.717] [9782] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 00:18:15.752] [9782] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 00:18:15.752] [9782] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:18:15.776] [9960] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 00:18:15.777] [9782] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:18:15.777] [9782] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:18:15.777] [9782] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:18:15.777] [9782] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 00:18:15.778] [9782] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 00:18:15.778] [9782] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 00:18:15.778] [9782] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:18:15.778] [9782] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:18:15.778] [9782] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:18:15.787] [9958] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 00:18:16.278] [9782] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:18:16.279] [9782] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:18:16.279] [9782] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:18:16.779] [9782] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:18:16.781] [9782] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:18:16.781] [9782] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:18:17.281] [9782] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:18:17.282] [9782] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:18:17.282] [9782] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:18:17.282] [9782] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:18:17.282] [9782] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:18:17.282] [9782] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 00:18:17.282] [9782] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 00:18:17.282] [9782] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 00:18:17.282] [9782] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:19:14.462] [11053] [WARN] [NRSDK] Log Info: pid:10282, time:2023-06-09 00:19:14 (-0700)
+[2023-06-09 00:19:14.464] [11053] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:19:14.464] [11053] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:19:14.481] [11053] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:19:14.527] [11053] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:19:14.533] [11053] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:19:14.558] [10300] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 00:19:14.575] [10300] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 00:19:14.576] [11053] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:19:14.576] [11053] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:19:14.576] [11053] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:19:14.576] [11053] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 00:19:14.580] [11053] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 00:19:14.594] [11053] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:19:14.594] [11053] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:19:14.594] [11053] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:19:14.594] [11053] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:19:14.594] [11053] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 00:19:14.638] [11053] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 00:19:14.716] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:14.767] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:14.819] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:14.873] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:14.927] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:14.979] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:15.033] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:15.087] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:15.138] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:15.189] [11053] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:19:15.189] [11053] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 00:19:15.241] [11053] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 00:19:15.361] [11053] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 00:19:15.362] [11053] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 00:19:15.371] [11053] [INFO] [NRSDK] MCU started
+[2023-06-09 00:19:15.374] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:19:15.378] [11053] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 00:19:15.383] [11053] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 00:19:15.384] [11053] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:19:15.386] [11053] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 00:19:15.400] [11053] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 00:19:15.662] [11173] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 00:19:15.662] [11173] [INFO] [NRSDK] IMU initializing
+[2023-06-09 00:19:15.662] [11173] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 00:19:15.666] [11173] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 00:19:15.690] [11173] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:19:15.690] [11173] [INFO] [NRSDK] IMU initialized
+[2023-06-09 00:19:15.711] [11173] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 00:19:15.712] [11173] [INFO] [NRSDK] IMU starting
+[2023-06-09 00:19:15.712] [11173] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:19:15.714] [11173] [INFO] [NRSDK] IMU started
+[2023-06-09 00:19:15.715] [11173] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 00:19:15.820] [11175] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 00:19:16.062] [11053] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 00:19:16.066] [11053] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 00:19:16.066] [11053] [INFO] [NRSDK] Display Type 2
+[2023-06-09 00:19:16.317] [11053] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 00:19:16.318] [11053] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 00:19:16.356] [11053] [INFO] [NRSDK] NRController START!
+[2023-06-09 00:19:16.356] [11053] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 00:19:16.372] [11053] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 00:19:16.379] [11198] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 00:19:16.379] [11053] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 00:19:16.379] [11198] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:19:16.383] [11198] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:19:16.572] [10282] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 00:19:16.572] [10282] [INFO] [NRSDK] Display 1
+[2023-06-09 00:19:16.838] [11175] [WARN] [NRSDK] IMU frequency = 890 Hz < 1000 Hz, prev ts = 50270 ms, curr ts = 51271 ms
+[2023-06-09 00:19:17.273] [11118] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 00:19:17.273] [11118] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 00:19:17.274] [11118] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 00:19:17.278] [11118] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 00:19:17.285] [11118] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:19:17.285] [11118] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 00:19:17.295] [11118] [INFO] [NRSDK] Vsync starting
+[2023-06-09 00:19:17.295] [11118] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:19:17.296] [11118] [INFO] [NRSDK] Vsync started
+[2023-06-09 00:19:17.297] [11118] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 00:19:17.307] [11118] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 00:19:17.317] [11202] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 00:19:17.356] [11118] [INFO] [NRSDK] Start rendering
+[2023-06-09 00:19:17.358] [11203] [INFO] [NRSDK] current is 0
+[2023-06-09 00:19:17.375] [11171] [WARN] [NRSDK] Heartbeat recover from long sleep:164672412765045 0
+[2023-06-09 00:19:17.377] [11203] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 00:19:17.838] [11175] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 51271 ms, curr ts = 52271 ms
+[2023-06-09 00:19:20.837] [11175] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 54271 ms, curr ts = 55271 ms
+[2023-06-09 00:19:25.379] [11198] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:19:25.386] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:19:28.380] [11198] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:19:29.127] [11171] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:19:31.393] [11198] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:19:35.400] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:19:37.393] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:19:38.837] [11175] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 72271 ms, curr ts = 73271 ms
+[2023-06-09 00:19:43.381] [11198] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:19:44.837] [11175] [WARN] [NRSDK] IMU frequency = 944 Hz < 1000 Hz, prev ts = 78271 ms, curr ts = 79271 ms
+[2023-06-09 00:19:45.410] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:19:49.384] [11198] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:19:55.403] [11198] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:19:55.419] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:19:57.409] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:20:05.431] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:10.382] [11198] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:20:15.441] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:17.409] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:20:19.385] [11198] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:20:23.837] [11175] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 117271 ms, curr ts = 118271 ms
+[2023-06-09 00:20:25.452] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:28.404] [11198] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:20:29.193] [11171] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:20:35.465] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:37.426] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:20:45.480] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:46.383] [11198] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:20:55.489] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:20:57.442] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:20:58.387] [11198] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:21:05.500] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:21:10.414] [11198] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:21:15.512] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:21:17.443] [11203] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:21:25.522] [11172] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:21:28.839] [11175] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 182273 ms, curr ts = 183273 ms
+[2023-06-09 00:21:29.262] [11171] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:21:30.437] [11171] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 00:21:30.438] [11172] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 00:21:30.444] [11172] [ERROR] [NRSDK] Set Property 39 164805465316193 failed
+[2023-06-09 00:21:30.461] [11178] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 00:21:30.461] [11178] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 00:21:30.461] [11178] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:21:30.461] [11178] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 00:21:30.461] [11178] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 00:21:30.461] [10299] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:21:30.461] [10299] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 00:21:30.468] [10299] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:21:30.468] [10299] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 00:21:30.469] [11203] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 00:21:30.472] [11178] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 00:21:30.472] [11178] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 00:21:30.473] [11178] [INFO] [NRSDK] Vsync released
+[2023-06-09 00:21:30.474] [11178] [INFO] [NRSDK] Release resources.
+[2023-06-09 00:21:30.474] [11178] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] IMU stopping
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] IMU stopped
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] IMU releasing
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] IMU released
+[2023-06-09 00:21:30.476] [11178] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 00:21:30.478] [11165] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 00:21:30.478] [11178] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 00:21:30.478] [11178] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 00:21:30.480] [11178] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 00:21:30.480] [11178] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 00:21:30.481] [11178] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 00:21:30.526] [11172] [ERROR] [NRSDK] Set Property 39 164805565401922 failed
+[2023-06-09 00:21:30.574] [10282] [INFO] [NRSDK] OnDisplayEvent: id:227 ev:2
+[2023-06-09 00:21:30.574] [10282] [INFO] [NRSDK] OnDisplayDeviceModify 227 2
+[2023-06-09 00:21:30.574] [10282] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:21:30.574] [10282] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:21:30.574] [10282] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:21:30.575] [10282] [INFO] [NRSDK] Display 2
+[2023-06-09 00:21:30.576] [11329] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 00:21:30.576] [11329] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 00:21:30.603] [11178] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 00:21:30.605] [11178] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 00:21:30.605] [11178] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:21:30.605] [11178] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:21:30.605] [11178] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:21:30.606] [10282] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 00:21:30.627] [11178] [INFO] [NRSDK] MCU stopping
+[2023-06-09 00:21:30.627] [11178] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:21:30.629] [11178] [INFO] [NRSDK] MCU stopped
+[2023-06-09 00:21:30.629] [11178] [INFO] [NRSDK] MCU releasing
+[2023-06-09 00:21:30.629] [11178] [INFO] [NRSDK] MCU released
+[2023-06-09 00:21:30.629] [11178] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 00:21:30.629] [11178] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 00:34:22.726] [18304] [WARN] [NRSDK] Log Info: pid:18213, time:2023-06-09 00:34:22 (-0700)
+[2023-06-09 00:34:22.727] [18304] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:34:22.727] [18304] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:34:22.738] [18304] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:34:22.780] [18304] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:34:25.783] [18304] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 00:34:25.806] [18304] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 00:34:25.806] [18304] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:34:25.986] [18556] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 00:34:25.986] [18304] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:34:25.986] [18304] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:34:25.986] [18304] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:34:25.986] [18304] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 00:34:25.987] [18304] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 00:34:25.987] [18304] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 00:34:25.987] [18304] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:34:25.987] [18304] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:34:25.987] [18304] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:34:25.991] [18555] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 00:34:26.487] [18304] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:34:26.488] [18304] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:34:26.489] [18304] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:34:26.989] [18304] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:34:26.989] [18304] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:34:26.989] [18304] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:34:27.489] [18304] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:34:27.490] [18304] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:34:27.490] [18304] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:34:27.490] [18304] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:34:27.490] [18304] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:34:27.490] [18304] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 00:34:27.490] [18304] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 00:34:27.490] [18304] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 00:34:27.490] [18304] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:35:17.717] [19430] [WARN] [NRSDK] Log Info: pid:19084, time:2023-06-09 00:35:17 (-0700)
+[2023-06-09 00:35:17.719] [19430] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:35:17.719] [19430] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:35:17.737] [19430] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:35:17.787] [19430] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:35:17.795] [19430] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:35:17.809] [19102] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 00:35:17.818] [19100] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 00:35:17.818] [19430] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:35:17.818] [19430] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:35:17.818] [19430] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:35:17.818] [19430] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 00:35:17.823] [19430] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 00:35:17.829] [19430] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:35:17.829] [19430] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:35:17.829] [19430] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:35:17.829] [19430] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:35:17.829] [19430] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 00:35:17.873] [19430] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 00:35:17.947] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.000] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.053] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.105] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.157] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.212] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.265] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.319] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.372] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.425] [19430] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:35:18.425] [19430] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 00:35:18.480] [19430] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 00:35:18.594] [19430] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 00:35:18.595] [19430] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 00:35:18.607] [19430] [INFO] [NRSDK] MCU started
+[2023-06-09 00:35:18.610] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:35:18.616] [19430] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 00:35:18.620] [19430] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 00:35:18.620] [19430] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:35:18.622] [19430] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 00:35:18.633] [19430] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 00:35:18.847] [19526] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 00:35:18.847] [19526] [INFO] [NRSDK] IMU initializing
+[2023-06-09 00:35:18.847] [19526] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 00:35:18.851] [19526] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 00:35:18.870] [19526] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:35:18.870] [19526] [INFO] [NRSDK] IMU initialized
+[2023-06-09 00:35:18.887] [19526] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 00:35:18.888] [19526] [INFO] [NRSDK] IMU starting
+[2023-06-09 00:35:18.888] [19526] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:35:18.889] [19526] [INFO] [NRSDK] IMU started
+[2023-06-09 00:35:18.890] [19526] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 00:35:18.996] [19528] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 00:35:19.102] [19430] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 00:35:19.105] [19430] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 00:35:19.105] [19430] [INFO] [NRSDK] Display Type 2
+[2023-06-09 00:35:19.356] [19430] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 00:35:19.358] [19430] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 00:35:19.390] [19430] [INFO] [NRSDK] NRController START!
+[2023-06-09 00:35:19.390] [19430] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 00:35:19.405] [19430] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 00:35:19.409] [19552] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 00:35:19.409] [19430] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 00:35:19.410] [19552] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:35:19.414] [19552] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:35:19.544] [19084] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 00:35:19.544] [19084] [INFO] [NRSDK] Display 1
+[2023-06-09 00:35:19.679] [19466] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 00:35:19.679] [19466] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 00:35:19.680] [19466] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 00:35:19.685] [19466] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 00:35:19.694] [19466] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:35:19.694] [19466] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 00:35:19.709] [19466] [INFO] [NRSDK] Vsync starting
+[2023-06-09 00:35:19.709] [19466] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:35:19.709] [19466] [INFO] [NRSDK] Vsync started
+[2023-06-09 00:35:19.710] [19466] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 00:35:19.720] [19466] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 00:35:19.724] [19555] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 00:35:19.811] [19524] [WARN] [NRSDK] Heartbeat recover from long sleep:165634848697022 0
+[2023-06-09 00:35:20.014] [19528] [WARN] [NRSDK] IMU frequency = 889 Hz < 1000 Hz, prev ts = 50767 ms, curr ts = 51767 ms
+[2023-06-09 00:35:20.072] [19466] [INFO] [NRSDK] Start rendering
+[2023-06-09 00:35:20.073] [19556] [INFO] [NRSDK] current is 0
+[2023-06-09 00:35:20.098] [19556] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 00:35:28.412] [19552] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:35:28.619] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:35:31.410] [19552] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:35:31.699] [19524] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:35:34.424] [19552] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:35:38.630] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:35:40.099] [19556] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:35:46.413] [19552] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:35:48.641] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:35:52.412] [19552] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:35:58.434] [19552] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:35:58.650] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:36:00.115] [19556] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:36:08.666] [19525] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:36:13.415] [19552] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:36:14.430] [19524] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 00:36:14.432] [19084] [INFO] [NRSDK] OnDisplayEvent: id:229 ev:3
+[2023-06-09 00:36:14.432] [19084] [INFO] [NRSDK] OnDisplayDeviceModify 229 3
+[2023-06-09 00:36:14.449] [19530] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 00:36:14.449] [19530] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 00:36:14.449] [19530] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:36:14.450] [19530] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 00:36:14.450] [19530] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 00:36:14.450] [19102] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:36:14.450] [19558] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 00:36:14.450] [19102] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 00:36:14.454] [19600] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:36:14.454] [19600] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 00:36:14.458] [19556] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 00:36:14.459] [19530] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 00:36:14.459] [19530] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 00:36:14.459] [19530] [INFO] [NRSDK] Vsync released
+[2023-06-09 00:36:14.459] [19530] [INFO] [NRSDK] Release resources.
+[2023-06-09 00:36:14.459] [19530] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 00:36:14.461] [19530] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 00:36:14.461] [19530] [INFO] [NRSDK] IMU stopping
+[2023-06-09 00:36:14.461] [19530] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:36:14.461] [19530] [INFO] [NRSDK] IMU stopped
+[2023-06-09 00:36:14.461] [19530] [INFO] [NRSDK] IMU releasing
+[2023-06-09 00:36:14.462] [19530] [INFO] [NRSDK] IMU released
+[2023-06-09 00:36:14.462] [19530] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 00:36:14.465] [19518] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 00:36:14.465] [19530] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 00:36:14.465] [19530] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 00:36:14.466] [19530] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 00:36:14.466] [19530] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 00:36:14.467] [19530] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 00:36:14.476] [19525] [ERROR] [NRSDK] Set Property 39 165689516210803 failed
+[2023-06-09 00:36:14.558] [19084] [INFO] [NRSDK] OnDisplayEvent: id:229 ev:2
+[2023-06-09 00:36:14.558] [19084] [INFO] [NRSDK] OnDisplayDeviceModify 229 2
+[2023-06-09 00:36:14.558] [19084] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:36:14.558] [19084] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:36:14.558] [19084] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:36:14.559] [19084] [INFO] [NRSDK] Display 2
+[2023-06-09 00:36:14.571] [19100] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 00:36:14.572] [19471] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 00:36:14.576] [19525] [ERROR] [NRSDK] Set Property 39 165689616310022 failed
+[2023-06-09 00:36:14.598] [19530] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 00:36:14.599] [19530] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 00:36:14.599] [19530] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:36:14.599] [19530] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:36:14.599] [19530] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:36:14.599] [19084] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] MCU stopping
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] MCU stopped
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] MCU releasing
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] MCU released
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 00:36:14.677] [19530] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 00:43:46.281] [24523] [WARN] [NRSDK] Log Info: pid:24472, time:2023-06-09 00:43:46 (-0700)
+[2023-06-09 00:43:46.282] [24523] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:43:46.282] [24523] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:43:46.293] [24523] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:43:46.335] [24523] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:43:49.338] [24523] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 00:43:49.367] [24523] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 00:43:49.367] [24523] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:43:49.579] [24709] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 00:43:49.585] [24710] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 00:43:49.585] [24523] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:43:49.585] [24523] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:43:49.585] [24523] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:43:49.585] [24523] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 00:43:49.586] [24523] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 00:43:49.586] [24523] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 00:43:49.586] [24523] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:43:49.586] [24523] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:43:49.586] [24523] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:43:50.087] [24523] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:43:50.088] [24523] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:43:50.088] [24523] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:43:50.589] [24523] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:43:50.590] [24523] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:43:50.590] [24523] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:43:51.090] [24523] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:43:51.091] [24523] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:43:51.091] [24523] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:43:51.091] [24523] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:43:51.092] [24523] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:43:51.092] [24523] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 00:43:51.092] [24523] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 00:43:51.092] [24523] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 00:43:51.092] [24523] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:44:24.269] [25886] [WARN] [NRSDK] Log Info: pid:25128, time:2023-06-09 00:44:24 (-0700)
+[2023-06-09 00:44:24.270] [25886] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:44:24.270] [25886] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:44:24.286] [25886] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:44:24.336] [25886] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:44:24.344] [25886] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:44:24.361] [25142] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 00:44:24.375] [25142] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 00:44:24.375] [25886] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:44:24.375] [25886] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:44:24.375] [25886] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:44:24.375] [25886] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 00:44:24.379] [25886] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 00:44:24.388] [25886] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:44:24.388] [25886] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:44:24.388] [25886] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:44:24.388] [25886] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:44:24.388] [25886] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 00:44:24.409] [25999] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:44:24.420] [25886] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 00:44:24.496] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.548] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.601] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.654] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.708] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.761] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.814] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.868] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.921] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.975] [25886] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:44:24.975] [25886] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 00:44:25.027] [25886] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 00:44:25.139] [25886] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 00:44:25.140] [25886] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 00:44:25.148] [25886] [INFO] [NRSDK] MCU started
+[2023-06-09 00:44:25.153] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:44:25.155] [25886] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 00:44:25.158] [25886] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 00:44:25.158] [25886] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:44:25.160] [25886] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 00:44:25.173] [25886] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 00:44:25.385] [26001] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 00:44:25.411] [26001] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 00:44:25.412] [26001] [INFO] [NRSDK] IMU initializing
+[2023-06-09 00:44:25.412] [26001] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 00:44:25.415] [26001] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 00:44:25.428] [26001] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:44:25.428] [26001] [INFO] [NRSDK] IMU initialized
+[2023-06-09 00:44:25.429] [26001] [INFO] [NRSDK] IMU starting
+[2023-06-09 00:44:25.429] [26001] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:44:25.430] [26001] [INFO] [NRSDK] IMU started
+[2023-06-09 00:44:25.430] [26001] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 00:44:25.536] [26003] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 00:44:25.647] [25886] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 00:44:25.649] [25886] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 00:44:25.649] [25886] [INFO] [NRSDK] Display Type 2
+[2023-06-09 00:44:25.900] [25886] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 00:44:25.900] [25886] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 00:44:25.928] [25886] [INFO] [NRSDK] NRController START!
+[2023-06-09 00:44:25.928] [25886] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 00:44:25.939] [25886] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 00:44:25.944] [26023] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 00:44:25.945] [26023] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:44:25.945] [25886] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 00:44:25.954] [26023] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:44:26.088] [25128] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 00:44:26.088] [25128] [INFO] [NRSDK] Display 1
+[2023-06-09 00:44:26.498] [25924] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 00:44:26.499] [25924] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 00:44:26.499] [25924] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 00:44:26.502] [25924] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 00:44:26.509] [25924] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:44:26.509] [25924] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 00:44:26.518] [25924] [INFO] [NRSDK] Vsync starting
+[2023-06-09 00:44:26.518] [25924] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:44:26.518] [25924] [INFO] [NRSDK] Vsync started
+[2023-06-09 00:44:26.519] [25924] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 00:44:26.527] [25924] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 00:44:26.542] [26028] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 00:44:26.552] [25999] [WARN] [NRSDK] Heartbeat recover from long sleep:166181590334261 0
+[2023-06-09 00:44:26.554] [26003] [WARN] [NRSDK] IMU frequency = 915 Hz < 1000 Hz, prev ts = 25725 ms, curr ts = 26725 ms
+[2023-06-09 00:44:26.574] [25924] [INFO] [NRSDK] Start rendering
+[2023-06-09 00:44:26.576] [26029] [INFO] [NRSDK] current is 0
+[2023-06-09 00:44:26.584] [26029] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 00:44:34.946] [26023] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:44:35.162] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:44:37.944] [26023] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:44:40.965] [26023] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:44:45.175] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:44:46.601] [26029] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:44:50.554] [26003] [WARN] [NRSDK] IMU frequency = 938 Hz < 1000 Hz, prev ts = 49725 ms, curr ts = 50725 ms
+[2023-06-09 00:44:52.947] [26023] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:44:55.186] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:44:57.555] [26003] [WARN] [NRSDK] IMU frequency = 937 Hz < 1000 Hz, prev ts = 56725 ms, curr ts = 57725 ms
+[2023-06-09 00:44:58.946] [26023] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:45:02.554] [26003] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 61725 ms, curr ts = 62725 ms
+[2023-06-09 00:45:03.404] [25999] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:45:04.974] [26023] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:45:05.198] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:06.601] [26029] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:45:15.211] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:19.948] [26023] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:45:25.220] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:26.617] [26029] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:45:28.947] [26023] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:45:35.229] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:37.974] [26023] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:45:45.241] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:46.617] [26029] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:45:55.252] [26000] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:45:55.586] [25999] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 00:45:55.601] [26030] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 00:45:55.607] [26007] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 00:45:55.607] [26007] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 00:45:55.607] [26007] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:45:55.607] [26007] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 00:45:55.607] [26007] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 00:45:55.609] [25142] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:45:55.609] [25142] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 00:45:55.610] [26029] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 00:45:55.611] [26007] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 00:45:55.611] [26007] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 00:45:55.611] [26007] [INFO] [NRSDK] Vsync released
+[2023-06-09 00:45:55.611] [26007] [INFO] [NRSDK] Release resources.
+[2023-06-09 00:45:55.611] [26007] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] IMU stopping
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] IMU stopped
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] IMU releasing
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] IMU released
+[2023-06-09 00:45:55.613] [26007] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 00:45:55.617] [25142] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:45:55.617] [25142] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 00:45:55.618] [25993] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 00:45:55.618] [26007] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 00:45:55.618] [26007] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 00:45:55.619] [26007] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 00:45:55.619] [26007] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 00:45:55.621] [26007] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 00:45:55.648] [26000] [ERROR] [NRSDK] Set Property 39 166270688165946 failed
+[2023-06-09 00:45:55.722] [25128] [INFO] [NRSDK] OnDisplayEvent: id:231 ev:2
+[2023-06-09 00:45:55.722] [25128] [INFO] [NRSDK] OnDisplayDeviceModify 231 2
+[2023-06-09 00:45:55.723] [25128] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:45:55.723] [25128] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:45:55.723] [25128] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:45:55.723] [25128] [INFO] [NRSDK] Display 2
+[2023-06-09 00:45:55.736] [26007] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 00:45:55.737] [26007] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 00:45:55.737] [26007] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:45:55.737] [26007] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:45:55.737] [26007] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:45:55.738] [25128] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 00:45:55.748] [26007] [INFO] [NRSDK] MCU stopping
+[2023-06-09 00:45:55.748] [26007] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:45:55.749] [26007] [INFO] [NRSDK] MCU stopped
+[2023-06-09 00:45:55.749] [26007] [INFO] [NRSDK] MCU releasing
+[2023-06-09 00:45:55.749] [26007] [INFO] [NRSDK] MCU released
+[2023-06-09 00:45:55.749] [26007] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 00:45:55.750] [26007] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 00:45:55.758] [26033] [WARN] [NRSDK] Log Info: pid:25128, time:2023-06-09 00:45:55 (-0700)
+[2023-06-09 00:45:55.758] [25142] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 00:45:55.758] [26033] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 00:53:12.160] [31215] [WARN] [NRSDK] Log Info: pid:31151, time:2023-06-09 00:53:12 (-0700)
+[2023-06-09 00:53:12.162] [31215] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:53:12.162] [31215] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:53:12.171] [31215] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:53:12.213] [31215] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:53:15.216] [31215] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 00:53:15.245] [31215] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 00:53:15.246] [31215] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:53:15.396] [31545] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 00:53:15.396] [31215] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:53:15.396] [31215] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:53:15.396] [31215] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:53:15.396] [31215] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 00:53:15.397] [31215] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 00:53:15.397] [31215] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 00:53:15.397] [31215] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:53:15.397] [31215] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:53:15.397] [31215] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:53:15.401] [31546] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 00:53:15.897] [31215] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:53:15.898] [31215] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:53:15.898] [31215] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:53:16.398] [31215] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:53:16.399] [31215] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:53:16.399] [31215] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:53:16.899] [31215] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:53:16.899] [31215] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:53:16.899] [31215] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:53:16.899] [31215] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:53:16.899] [31215] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:53:16.899] [31215] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 00:53:16.899] [31215] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 00:53:16.899] [31215] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 00:53:16.899] [31215] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:55:18.551] [3579] [WARN] [NRSDK] Log Info: pid:3546, time:2023-06-09 00:55:18 (-0700)
+[2023-06-09 00:55:18.552] [3579] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:55:18.552] [3579] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:55:18.563] [3579] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:55:18.605] [3579] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:55:21.608] [3579] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 00:55:21.639] [3579] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 00:55:21.639] [3579] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:55:21.652] [3741] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 00:55:21.654] [3742] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 00:55:21.654] [3579] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:55:21.654] [3579] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:55:21.654] [3579] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:55:21.654] [3579] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 00:55:21.655] [3579] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 00:55:21.655] [3579] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 00:55:21.655] [3579] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:55:21.655] [3579] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:55:21.655] [3579] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:55:22.156] [3579] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:55:22.157] [3579] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:55:22.157] [3579] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:55:22.658] [3579] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:55:22.659] [3579] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:55:22.659] [3579] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 00:55:23.159] [3579] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 00:55:23.161] [3579] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 00:55:23.161] [3579] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:55:23.161] [3579] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:55:23.161] [3579] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:55:23.161] [3579] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 00:55:23.161] [3579] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 00:55:23.161] [3579] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 00:55:23.162] [3579] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:55:53.410] [5436] [WARN] [NRSDK] Log Info: pid:5396, time:2023-06-09 00:55:53 (-0700)
+[2023-06-09 00:55:53.412] [5436] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 00:55:53.412] [5436] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 00:55:53.422] [5436] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 00:55:53.468] [5436] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 00:55:53.474] [5436] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 00:55:53.483] [5411] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 00:55:53.492] [5411] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 00:55:53.492] [5436] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 00:55:53.492] [5436] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 00:55:53.492] [5436] [INFO] [NRSDK] MCU initializing
+[2023-06-09 00:55:53.492] [5436] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 00:55:53.494] [5436] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 00:55:53.500] [5436] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:55:53.500] [5436] [INFO] [NRSDK] MCU initialized
+[2023-06-09 00:55:53.500] [5436] [INFO] [NRSDK] MCU starting
+[2023-06-09 00:55:53.500] [5436] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:55:53.500] [5436] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 00:55:53.542] [5436] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 00:55:53.615] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.666] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.717] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.768] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.819] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.870] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.921] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:53.972] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:54.023] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:54.074] [5436] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 00:55:54.074] [5436] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 00:55:54.125] [5436] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 00:55:54.259] [5436] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 00:55:54.260] [5436] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 00:55:54.268] [5436] [INFO] [NRSDK] MCU started
+[2023-06-09 00:55:54.271] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:55:54.276] [5436] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 00:55:54.279] [5436] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 00:55:54.279] [5436] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 00:55:54.281] [5436] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 00:55:54.289] [5436] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 00:55:54.490] [5770] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 00:55:54.490] [5770] [INFO] [NRSDK] IMU initializing
+[2023-06-09 00:55:54.490] [5770] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 00:55:54.491] [5770] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 00:55:54.502] [5770] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:55:54.502] [5770] [INFO] [NRSDK] IMU initialized
+[2023-06-09 00:55:54.517] [5770] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 00:55:54.518] [5770] [INFO] [NRSDK] IMU starting
+[2023-06-09 00:55:54.518] [5770] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:55:54.519] [5770] [INFO] [NRSDK] IMU started
+[2023-06-09 00:55:54.520] [5770] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 00:55:54.625] [5772] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 00:55:54.748] [5436] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 00:55:54.751] [5436] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 00:55:54.751] [5436] [INFO] [NRSDK] Display Type 2
+[2023-06-09 00:55:55.001] [5436] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 00:55:55.002] [5436] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 00:55:55.029] [5436] [INFO] [NRSDK] NRController START!
+[2023-06-09 00:55:55.029] [5436] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 00:55:55.038] [5436] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 00:55:55.042] [5436] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 00:55:55.042] [5797] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 00:55:55.044] [5797] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:55:55.049] [5797] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:55:55.178] [5396] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 00:55:55.178] [5396] [INFO] [NRSDK] Display 1
+[2023-06-09 00:55:55.612] [5519] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 00:55:55.612] [5519] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 00:55:55.612] [5519] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 00:55:55.614] [5519] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 00:55:55.623] [5519] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 00:55:55.623] [5519] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 00:55:55.630] [5519] [INFO] [NRSDK] Vsync starting
+[2023-06-09 00:55:55.630] [5519] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 00:55:55.630] [5519] [INFO] [NRSDK] Vsync started
+[2023-06-09 00:55:55.631] [5519] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 00:55:55.638] [5519] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 00:55:55.644] [5772] [WARN] [NRSDK] IMU frequency = 921 Hz < 1000 Hz, prev ts = 28579 ms, curr ts = 29579 ms
+[2023-06-09 00:55:55.651] [5800] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 00:55:55.667] [5519] [INFO] [NRSDK] Start rendering
+[2023-06-09 00:55:55.668] [5801] [INFO] [NRSDK] current is 0
+[2023-06-09 00:55:55.671] [5763] [WARN] [NRSDK] Heartbeat recover from long sleep:166870708970457 0
+[2023-06-09 00:55:55.676] [5801] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 00:56:04.043] [5797] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:56:04.281] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:07.045] [5797] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:56:10.060] [5797] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:56:14.293] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:15.692] [5801] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:56:22.045] [5797] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:56:24.303] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:28.044] [5797] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:56:29.582] [5763] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 00:56:34.069] [5797] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:56:34.315] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:35.693] [5801] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:56:44.328] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:49.047] [5797] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 00:56:54.340] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:56:55.709] [5801] [INFO] [NRSDK] skip: 0
+[2023-06-09 00:56:58.047] [5797] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 00:57:04.347] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:57:07.079] [5797] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 00:57:14.358] [5769] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 00:57:15.123] [5763] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 00:57:15.148] [5774] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 00:57:15.148] [5774] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 00:57:15.148] [5774] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:57:15.148] [5774] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 00:57:15.148] [5774] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 00:57:15.148] [5802] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 00:57:15.152] [5801] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 00:57:15.153] [5774] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 00:57:15.153] [5774] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 00:57:15.153] [5774] [INFO] [NRSDK] Vsync released
+[2023-06-09 00:57:15.153] [5774] [INFO] [NRSDK] Release resources.
+[2023-06-09 00:57:15.153] [5774] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 00:57:15.154] [5774] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 00:57:15.154] [5774] [INFO] [NRSDK] IMU stopping
+[2023-06-09 00:57:15.154] [5774] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:57:15.155] [5774] [INFO] [NRSDK] IMU stopped
+[2023-06-09 00:57:15.155] [5774] [INFO] [NRSDK] IMU releasing
+[2023-06-09 00:57:15.155] [5774] [INFO] [NRSDK] IMU released
+[2023-06-09 00:57:15.155] [5774] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 00:57:15.155] [5769] [ERROR] [NRSDK] Set Property 39 166950195051989 failed
+[2023-06-09 00:57:15.156] [5754] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 00:57:15.156] [5774] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 00:57:15.156] [5774] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 00:57:15.157] [5774] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 00:57:15.157] [5774] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 00:57:15.158] [5774] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 00:57:15.176] [5413] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:57:15.176] [5413] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 00:57:15.181] [5413] [WARN] [NRSDK] QuitApp!
+[2023-06-09 00:57:15.181] [5413] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 00:57:15.254] [5396] [INFO] [NRSDK] OnDisplayEvent: id:234 ev:2
+[2023-06-09 00:57:15.254] [5396] [INFO] [NRSDK] OnDisplayDeviceModify 234 2
+[2023-06-09 00:57:15.254] [5396] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:57:15.254] [5396] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:57:15.254] [5396] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:57:15.255] [5396] [INFO] [NRSDK] Display 2
+[2023-06-09 00:57:15.255] [5769] [ERROR] [NRSDK] Set Property 39 166950295143968 failed
+[2023-06-09 00:57:15.262] [5774] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 00:57:15.263] [5774] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 00:57:15.263] [5774] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:57:15.263] [5774] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 00:57:15.263] [5774] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 00:57:15.264] [5396] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 00:57:15.286] [5855] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 00:57:15.286] [5412] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 00:57:15.356] [5774] [INFO] [NRSDK] MCU stopping
+[2023-06-09 00:57:15.356] [5774] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 00:57:15.356] [5774] [INFO] [NRSDK] MCU stopped
+[2023-06-09 00:57:15.356] [5774] [INFO] [NRSDK] MCU releasing
+[2023-06-09 00:57:15.357] [5774] [INFO] [NRSDK] MCU released
+[2023-06-09 00:57:15.357] [5774] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 00:57:15.357] [5774] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 01:02:50.448] [10575] [WARN] [NRSDK] Log Info: pid:10492, time:2023-06-09 01:02:50 (-0700)
+[2023-06-09 01:02:50.449] [10575] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:02:50.449] [10575] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:02:50.461] [10575] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:02:50.503] [10575] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:02:53.505] [10575] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 01:02:53.535] [10575] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 01:02:53.535] [10575] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:02:53.560] [10672] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 01:02:53.560] [10575] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:02:53.560] [10575] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:02:53.560] [10575] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:02:53.560] [10575] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 01:02:53.561] [10575] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 01:02:53.561] [10575] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 01:02:53.561] [10575] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:02:53.561] [10575] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:02:53.561] [10575] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:02:53.565] [10670] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 01:02:54.062] [10575] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:02:54.063] [10575] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:02:54.063] [10575] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:02:54.564] [10575] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:02:54.566] [10575] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:02:54.566] [10575] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:02:55.066] [10575] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:02:55.068] [10575] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:02:55.068] [10575] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:02:55.068] [10575] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:02:55.068] [10575] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:02:55.068] [10575] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 01:02:55.069] [10575] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 01:02:55.069] [10575] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 01:02:55.069] [10575] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:03:28.946] [11867] [WARN] [NRSDK] Log Info: pid:11829, time:2023-06-09 01:03:28 (-0700)
+[2023-06-09 01:03:28.948] [11867] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:03:28.948] [11867] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:03:28.964] [11867] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:03:29.013] [11867] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:03:29.023] [11867] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:03:29.039] [11845] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 01:03:29.051] [11855] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 01:03:29.051] [11867] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:03:29.051] [11867] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:03:29.051] [11867] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:03:29.051] [11867] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 01:03:29.054] [11867] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 01:03:29.058] [11867] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:03:29.058] [11867] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:03:29.058] [11867] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:03:29.058] [11867] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:03:29.058] [11867] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 01:03:29.098] [11867] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 01:03:29.173] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.225] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.278] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.331] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.384] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.436] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.489] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.542] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.596] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.649] [11867] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:03:29.649] [11867] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 01:03:29.701] [11867] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 01:03:29.815] [11867] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 01:03:29.816] [11867] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 01:03:29.824] [11867] [INFO] [NRSDK] MCU started
+[2023-06-09 01:03:29.827] [11867] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 01:03:29.831] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:03:29.834] [11867] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 01:03:29.834] [11867] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:03:29.835] [11867] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 01:03:29.841] [11867] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 01:03:30.023] [12023] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 01:03:30.023] [12023] [INFO] [NRSDK] IMU initializing
+[2023-06-09 01:03:30.023] [12023] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 01:03:30.025] [12023] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 01:03:30.036] [12023] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:03:30.036] [12023] [INFO] [NRSDK] IMU initialized
+[2023-06-09 01:03:30.051] [12023] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 01:03:30.052] [12023] [INFO] [NRSDK] IMU starting
+[2023-06-09 01:03:30.052] [12023] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:03:30.053] [12023] [INFO] [NRSDK] IMU started
+[2023-06-09 01:03:30.054] [12023] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 01:03:30.157] [12030] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 01:03:30.281] [11867] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 01:03:30.283] [11867] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 01:03:30.283] [11867] [INFO] [NRSDK] Display Type 2
+[2023-06-09 01:03:30.534] [11867] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 01:03:30.534] [11867] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 01:03:30.557] [11867] [INFO] [NRSDK] NRController START!
+[2023-06-09 01:03:30.557] [11867] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 01:03:30.570] [11867] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 01:03:30.573] [11867] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 01:03:30.575] [12059] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 01:03:30.575] [12059] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:03:30.580] [12059] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:03:30.690] [11829] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 01:03:30.690] [11829] [INFO] [NRSDK] Display 1
+[2023-06-09 01:03:31.148] [11922] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 01:03:31.148] [11922] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 01:03:31.148] [11922] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 01:03:31.150] [11922] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 01:03:31.158] [11922] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:03:31.158] [11922] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 01:03:31.166] [11922] [INFO] [NRSDK] Vsync starting
+[2023-06-09 01:03:31.166] [11922] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:03:31.166] [11922] [INFO] [NRSDK] Vsync started
+[2023-06-09 01:03:31.167] [11922] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 01:03:31.176] [11922] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 01:03:31.177] [12030] [WARN] [NRSDK] IMU frequency = 924 Hz < 1000 Hz, prev ts = 29236 ms, curr ts = 30236 ms
+[2023-06-09 01:03:31.186] [12062] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 01:03:31.213] [11922] [INFO] [NRSDK] Start rendering
+[2023-06-09 01:03:31.214] [12063] [INFO] [NRSDK] current is 0
+[2023-06-09 01:03:31.228] [12002] [WARN] [NRSDK] Heartbeat recover from long sleep:167326265267887 0
+[2023-06-09 01:03:31.229] [12063] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 01:03:39.581] [12059] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:03:39.842] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:03:42.575] [12059] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:03:45.591] [12059] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:03:49.850] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:03:51.245] [12063] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:03:57.579] [12059] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:03:59.860] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:04:03.577] [12059] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:04:04.521] [12002] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:04:09.600] [12059] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:04:09.870] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:04:11.261] [12063] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:04:19.882] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:04:22.177] [12030] [WARN] [NRSDK] IMU frequency = 868 Hz < 1000 Hz, prev ts = 80237 ms, curr ts = 81237 ms
+[2023-06-09 01:04:24.581] [12059] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:04:29.893] [12021] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:04:31.278] [12063] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:04:32.585] [12002] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 01:04:32.593] [12021] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 01:04:32.593] [12021] [ERROR] [NRSDK] Set Property 39 167387633330780 failed
+[2023-06-09 01:04:32.604] [11855] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:04:32.604] [11855] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 01:04:32.604] [12034] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 01:04:32.604] [12034] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 01:04:32.604] [12034] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:04:32.604] [12034] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 01:04:32.604] [12034] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 01:04:32.614] [12066] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:04:32.614] [12066] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 01:04:32.620] [12063] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 01:04:32.621] [12034] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 01:04:32.621] [12034] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 01:04:32.621] [12034] [INFO] [NRSDK] Vsync released
+[2023-06-09 01:04:32.621] [12034] [INFO] [NRSDK] Release resources.
+[2023-06-09 01:04:32.621] [12034] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] IMU stopping
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] IMU stopped
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] IMU releasing
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] IMU released
+[2023-06-09 01:04:32.623] [12034] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 01:04:32.625] [11996] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 01:04:32.625] [12034] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 01:04:32.625] [12034] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 01:04:32.627] [12034] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 01:04:32.627] [12034] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 01:04:32.627] [12034] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 01:04:32.694] [12021] [ERROR] [NRSDK] Set Property 39 167387733408020 failed
+[2023-06-09 01:04:32.741] [11829] [INFO] [NRSDK] OnDisplayEvent: id:236 ev:2
+[2023-06-09 01:04:32.742] [11829] [INFO] [NRSDK] OnDisplayDeviceModify 236 2
+[2023-06-09 01:04:32.742] [12034] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 01:04:32.742] [11829] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:04:32.742] [11829] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:04:32.742] [11829] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 01:04:32.743] [12034] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 01:04:32.743] [11829] [INFO] [NRSDK] Display 2
+[2023-06-09 01:04:32.743] [12034] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:04:32.743] [12034] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:04:32.743] [12034] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 01:04:32.743] [11829] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 01:04:32.751] [11845] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 01:04:32.751] [11844] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] MCU stopping
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] MCU stopped
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] MCU releasing
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] MCU released
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 01:04:32.797] [12034] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 01:05:29.090] [14571] [WARN] [NRSDK] Log Info: pid:14501, time:2023-06-09 01:05:29 (-0700)
+[2023-06-09 01:05:29.092] [14571] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:05:29.092] [14571] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:05:29.103] [14571] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:05:29.146] [14571] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:05:32.153] [14571] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 01:05:32.183] [14571] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 01:05:32.183] [14571] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:05:32.202] [14802] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 01:05:32.205] [14803] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 01:05:32.223] [14571] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:05:32.223] [14571] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:05:32.223] [14571] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:05:32.223] [14571] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 01:05:32.224] [14571] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 01:05:32.224] [14571] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 01:05:32.224] [14571] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:05:32.224] [14571] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:05:32.224] [14571] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:05:32.724] [14571] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:05:32.725] [14571] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:05:32.725] [14571] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:05:33.225] [14571] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:05:33.226] [14571] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:05:33.226] [14571] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:05:33.726] [14571] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:05:33.727] [14571] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:05:33.727] [14571] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:05:33.727] [14571] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:05:33.727] [14571] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:05:33.727] [14571] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 01:05:33.727] [14571] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 01:05:33.727] [14571] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 01:05:33.727] [14571] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:06:04.033] [15939] [WARN] [NRSDK] Log Info: pid:15899, time:2023-06-09 01:06:04 (-0700)
+[2023-06-09 01:06:04.035] [15939] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:06:04.035] [15939] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:06:04.052] [15939] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:06:04.104] [15939] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:06:04.113] [15939] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:06:04.132] [15915] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 01:06:04.145] [15915] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 01:06:04.145] [15939] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:06:04.145] [15939] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:06:04.146] [15939] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:06:04.146] [15939] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 01:06:04.150] [15939] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 01:06:04.165] [15939] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:06:04.165] [15939] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:06:04.165] [15939] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:06:04.165] [15939] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:06:04.165] [15939] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 01:06:04.208] [15939] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 01:06:04.284] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.335] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.389] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.442] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.495] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.549] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.602] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.655] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.706] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.758] [15939] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:06:04.758] [15939] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 01:06:04.811] [15939] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 01:06:04.928] [15939] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 01:06:04.929] [15939] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 01:06:04.943] [15939] [INFO] [NRSDK] MCU started
+[2023-06-09 01:06:04.946] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:04.950] [15939] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 01:06:04.955] [15939] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 01:06:04.955] [15939] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:06:04.958] [15939] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 01:06:04.969] [15939] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 01:06:05.191] [16083] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 01:06:05.214] [16083] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 01:06:05.215] [16083] [INFO] [NRSDK] IMU initializing
+[2023-06-09 01:06:05.215] [16083] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 01:06:05.219] [16083] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 01:06:05.232] [16083] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:06:05.232] [16083] [INFO] [NRSDK] IMU initialized
+[2023-06-09 01:06:05.233] [16083] [INFO] [NRSDK] IMU starting
+[2023-06-09 01:06:05.233] [16083] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:06:05.234] [16083] [INFO] [NRSDK] IMU started
+[2023-06-09 01:06:05.235] [16083] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 01:06:05.339] [16085] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 01:06:05.473] [15939] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 01:06:05.477] [15939] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 01:06:05.477] [15939] [INFO] [NRSDK] Display Type 2
+[2023-06-09 01:06:05.728] [15939] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 01:06:05.728] [15939] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 01:06:05.754] [15939] [INFO] [NRSDK] NRController START!
+[2023-06-09 01:06:05.754] [15939] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 01:06:05.767] [15939] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 01:06:05.770] [16130] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 01:06:05.771] [15939] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 01:06:05.772] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:06:05.776] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:06:05.878] [15899] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 01:06:05.878] [15899] [INFO] [NRSDK] Display 1
+[2023-06-09 01:06:06.073] [15994] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 01:06:06.073] [15994] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 01:06:06.073] [15994] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 01:06:06.075] [15994] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 01:06:06.081] [15994] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:06:06.081] [15994] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 01:06:06.088] [15994] [INFO] [NRSDK] Vsync starting
+[2023-06-09 01:06:06.088] [15994] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:06:06.088] [15994] [INFO] [NRSDK] Vsync started
+[2023-06-09 01:06:06.089] [15994] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 01:06:06.089] [16142] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 01:06:06.096] [15994] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 01:06:06.128] [15994] [INFO] [NRSDK] Start rendering
+[2023-06-09 01:06:06.129] [16144] [INFO] [NRSDK] current is 0
+[2023-06-09 01:06:06.147] [16081] [WARN] [NRSDK] Heartbeat recover from long sleep:167481183579338 0
+[2023-06-09 01:06:06.148] [16144] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 01:06:06.358] [16085] [WARN] [NRSDK] IMU frequency = 917 Hz < 1000 Hz, prev ts = 28780 ms, curr ts = 29780 ms
+[2023-06-09 01:06:14.773] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:06:14.955] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:17.774] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:06:20.786] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:06:24.965] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:26.165] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:06:32.775] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:06:34.974] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:38.774] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:06:40.237] [16081] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:06:44.796] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:06:44.985] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:46.181] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:06:54.997] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:06:59.777] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:07:05.009] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:06.198] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:07:08.776] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:07:15.021] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:17.796] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:07:25.085] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:25.358] [16085] [WARN] [NRSDK] IMU frequency = 882 Hz < 1000 Hz, prev ts = 107780 ms, curr ts = 108780 ms
+[2023-06-09 01:07:26.215] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:07:32.359] [16085] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 114780 ms, curr ts = 115780 ms
+[2023-06-09 01:07:34.357] [16085] [WARN] [NRSDK] IMU frequency = 938 Hz < 1000 Hz, prev ts = 116780 ms, curr ts = 117780 ms
+[2023-06-09 01:07:35.044] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:35.778] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:07:37.358] [16085] [WARN] [NRSDK] IMU frequency = 939 Hz < 1000 Hz, prev ts = 119780 ms, curr ts = 120780 ms
+[2023-06-09 01:07:40.359] [16081] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:07:42.357] [16085] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 124780 ms, curr ts = 125780 ms
+[2023-06-09 01:07:45.062] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:46.215] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:07:47.778] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:07:55.071] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:07:59.807] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:08:05.082] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:08:06.231] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:08:15.094] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:08:20.778] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:08:25.104] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:08:26.231] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:08:35.114] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:08:35.779] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:08:40.426] [16081] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:08:45.126] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:08:46.248] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:08:50.807] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:08:55.133] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:05.143] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:06.248] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:09:14.780] [16130] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:09:15.153] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:25.162] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:26.265] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:09:32.781] [16130] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:09:35.172] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:40.559] [16081] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:09:45.181] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:46.281] [16144] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:09:50.816] [16130] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:09:55.193] [16082] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:09:55.583] [16081] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 01:09:55.592] [16082] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 01:09:55.592] [16082] [ERROR] [NRSDK] Set Property 39 167710631313418 failed
+[2023-06-09 01:09:55.607] [16088] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 01:09:55.607] [16088] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 01:09:55.607] [16088] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:09:55.607] [16088] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 01:09:55.607] [16088] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 01:09:55.616] [16000] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:09:55.616] [16000] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 01:09:55.623] [16000] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:09:55.624] [16000] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 01:09:55.624] [16144] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 01:09:55.625] [16088] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 01:09:55.625] [16088] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 01:09:55.625] [16088] [INFO] [NRSDK] Vsync released
+[2023-06-09 01:09:55.625] [16088] [INFO] [NRSDK] Release resources.
+[2023-06-09 01:09:55.625] [16088] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 01:09:55.627] [16088] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 01:09:55.627] [16088] [INFO] [NRSDK] IMU stopping
+[2023-06-09 01:09:55.627] [16088] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:09:55.628] [16088] [INFO] [NRSDK] IMU stopped
+[2023-06-09 01:09:55.628] [16088] [INFO] [NRSDK] IMU releasing
+[2023-06-09 01:09:55.628] [16088] [INFO] [NRSDK] IMU released
+[2023-06-09 01:09:55.628] [16088] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 01:09:55.629] [16075] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 01:09:55.630] [16088] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 01:09:55.630] [16088] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 01:09:55.633] [16088] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 01:09:55.633] [16088] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 01:09:55.635] [16088] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 01:09:55.692] [16082] [ERROR] [NRSDK] Set Property 39 167710731399876 failed
+[2023-06-09 01:09:55.742] [16088] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 01:09:55.744] [16088] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 01:09:55.744] [16088] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:09:55.744] [16088] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:09:55.744] [16088] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 01:09:55.766] [15899] [INFO] [NRSDK] Display 2
+[2023-06-09 01:09:55.794] [15914] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 01:09:55.798] [16088] [INFO] [NRSDK] MCU stopping
+[2023-06-09 01:09:55.798] [16088] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:09:55.799] [16088] [INFO] [NRSDK] MCU stopped
+[2023-06-09 01:09:55.799] [16088] [INFO] [NRSDK] MCU releasing
+[2023-06-09 01:09:55.799] [16088] [INFO] [NRSDK] MCU released
+[2023-06-09 01:09:55.799] [16088] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 01:09:55.799] [16088] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 01:11:47.745] [20306] [WARN] [NRSDK] Log Info: pid:20251, time:2023-06-09 01:11:47 (-0700)
+[2023-06-09 01:11:47.746] [20306] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:11:47.746] [20306] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:11:47.759] [20306] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:11:47.801] [20306] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:11:50.805] [20306] [WARN] [NRSDK] can not get server path from broadcast
+[2023-06-09 01:11:50.841] [20306] [INFO] [NRSDK] FIND SERVICE SUCESS
+[2023-06-09 01:11:50.841] [20306] [INFO] [NRSDK] Find Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:11:50.867] [20521] [ERROR] [NRSDK] SparrowClient remove connection status=0x50ffe
+[2023-06-09 01:11:50.867] [20306] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:11:50.867] [20306] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:11:50.867] [20306] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:11:50.867] [20306] [INFO] [NRSDK] MCU got invalid device type, The driver will enumerate it by itself
+[2023-06-09 01:11:50.868] [20306] [INFO] [NRSDK] MCU device type [0]
+[2023-06-09 01:11:50.868] [20306] [ERROR] [NRSDK] MCU cannot get device type[0]
+[2023-06-09 01:11:50.868] [20306] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:11:50.868] [20306] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:11:50.868] [20306] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:11:50.869] [20520] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x50ffe
+[2023-06-09 01:11:51.369] [20306] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:11:51.370] [20306] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:11:51.370] [20306] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:11:51.871] [20306] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:11:51.872] [20306] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:11:51.873] [20306] [INFO] [NRSDK] MCU init failed, retrying...
+[2023-06-09 01:11:52.373] [20306] [INFO] [NRSDK] MCU got invalid handle, work type = 0
+[2023-06-09 01:11:52.374] [20306] [FATAL] [NRSDK] Generic Control open failed, errno = 9, error = Bad file descriptor
+[2023-06-09 01:11:52.374] [20306] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:11:52.374] [20306] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:11:52.374] [20306] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:11:52.374] [20306] [ERROR] [NRSDK] MCU start failure
+[2023-06-09 01:11:52.374] [20306] [ERROR] [NRSDK] Plugin Start failed: retcode=1, id=nr_sensor_mcu_id see log for details!
+[2023-06-09 01:11:52.374] [20306] [ERROR] [NRSDK] start mcu retcode:1
+[2023-06-09 01:11:52.374] [20306] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:13:04.921] [21713] [WARN] [NRSDK] Log Info: pid:21009, time:2023-06-09 01:13:04 (-0700)
+[2023-06-09 01:13:04.923] [21713] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 01:13:04.923] [21713] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 01:13:04.937] [21713] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 01:13:04.982] [21713] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 01:13:04.986] [21713] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 01:13:04.995] [21078] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 01:13:05.007] [21051] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 01:13:05.007] [21713] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 01:13:05.007] [21713] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 01:13:05.008] [21713] [INFO] [NRSDK] MCU initializing
+[2023-06-09 01:13:05.008] [21713] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 01:13:05.012] [21713] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 01:13:05.020] [21713] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:13:05.020] [21713] [INFO] [NRSDK] MCU initialized
+[2023-06-09 01:13:05.020] [21713] [INFO] [NRSDK] MCU starting
+[2023-06-09 01:13:05.020] [21713] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:13:05.020] [21713] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 01:13:05.064] [21713] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 01:13:05.137] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.188] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.239] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.290] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.341] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.392] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.443] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.494] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.545] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.596] [21713] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 01:13:05.596] [21713] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 01:13:05.647] [21713] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 01:13:05.781] [21713] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 01:13:05.782] [21713] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 01:13:05.790] [21713] [INFO] [NRSDK] MCU started
+[2023-06-09 01:13:05.793] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:13:05.797] [21713] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 01:13:05.800] [21713] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 01:13:05.800] [21713] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 01:13:05.802] [21713] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 01:13:05.810] [21713] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 01:13:06.079] [21825] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 01:13:06.079] [21825] [INFO] [NRSDK] IMU initializing
+[2023-06-09 01:13:06.079] [21825] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 01:13:06.081] [21825] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 01:13:06.097] [21825] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:13:06.097] [21825] [INFO] [NRSDK] IMU initialized
+[2023-06-09 01:13:06.118] [21825] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 01:13:06.119] [21825] [INFO] [NRSDK] IMU starting
+[2023-06-09 01:13:06.119] [21825] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:13:06.121] [21825] [INFO] [NRSDK] IMU started
+[2023-06-09 01:13:06.121] [21825] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 01:13:06.226] [21827] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 01:13:06.482] [21713] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 01:13:06.485] [21713] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 01:13:06.485] [21713] [INFO] [NRSDK] Display Type 2
+[2023-06-09 01:13:06.736] [21713] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 01:13:06.737] [21713] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 01:13:06.774] [21713] [INFO] [NRSDK] NRController START!
+[2023-06-09 01:13:06.774] [21713] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 01:13:06.791] [21713] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 01:13:06.797] [21713] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 01:13:06.797] [21849] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 01:13:06.798] [21849] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:13:06.806] [21849] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:13:06.961] [21009] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 01:13:06.961] [21009] [INFO] [NRSDK] Display 1
+[2023-06-09 01:13:07.245] [21827] [WARN] [NRSDK] IMU frequency = 930 Hz < 1000 Hz, prev ts = 55920 ms, curr ts = 56920 ms
+[2023-06-09 01:13:07.683] [21753] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 01:13:07.683] [21753] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 01:13:07.684] [21753] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 01:13:07.688] [21753] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 01:13:07.699] [21753] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 01:13:07.699] [21753] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 01:13:07.710] [21753] [INFO] [NRSDK] Vsync starting
+[2023-06-09 01:13:07.710] [21753] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 01:13:07.711] [21753] [INFO] [NRSDK] Vsync started
+[2023-06-09 01:13:07.712] [21753] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 01:13:07.721] [21753] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 01:13:07.722] [21852] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 01:13:07.773] [21753] [INFO] [NRSDK] Start rendering
+[2023-06-09 01:13:07.774] [21853] [INFO] [NRSDK] current is 0
+[2023-06-09 01:13:07.781] [21853] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 01:13:07.795] [21813] [WARN] [NRSDK] Heartbeat recover from long sleep:167902832214803 0
+[2023-06-09 01:13:13.773] [21813] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:13:15.799] [21849] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:13:15.805] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:13:18.798] [21849] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:13:21.807] [21849] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:13:25.818] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:13:27.796] [21853] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:13:33.801] [21849] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:13:35.830] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:13:39.800] [21849] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:13:45.816] [21849] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:13:45.844] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:13:47.813] [21853] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:13:55.853] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:00.802] [21849] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:14:05.863] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:07.813] [21853] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:14:09.802] [21849] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:14:13.891] [21813] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 01:14:15.875] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:18.817] [21849] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 01:14:25.885] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:27.829] [21853] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:14:35.898] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:36.803] [21849] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 01:14:45.910] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:47.846] [21853] [INFO] [NRSDK] skip: 0
+[2023-06-09 01:14:48.803] [21849] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 01:14:54.244] [21827] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 162920 ms, curr ts = 163920 ms
+[2023-06-09 01:14:55.923] [21824] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 01:14:56.027] [21813] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 01:14:56.028] [21824] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 01:14:56.028] [21824] [ERROR] [NRSDK] Set Property 39 168011058724657 failed
+[2023-06-09 01:14:56.050] [21009] [INFO] [NRSDK] OnDisplayEvent: id:240 ev:3
+[2023-06-09 01:14:56.050] [21009] [INFO] [NRSDK] OnDisplayDeviceModify 240 3
+[2023-06-09 01:14:56.052] [21078] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:14:56.052] [21078] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 01:14:56.062] [21830] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 01:14:56.062] [21830] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 01:14:56.062] [21830] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:14:56.062] [21830] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 01:14:56.062] [21830] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 01:14:56.073] [21853] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 01:14:56.074] [21830] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 01:14:56.074] [21830] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 01:14:56.074] [21830] [INFO] [NRSDK] Vsync released
+[2023-06-09 01:14:56.075] [21830] [INFO] [NRSDK] Release resources.
+[2023-06-09 01:14:56.075] [21830] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 01:14:56.076] [21888] [WARN] [NRSDK] QuitApp!
+[2023-06-09 01:14:56.076] [21888] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 01:14:56.077] [21830] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 01:14:56.077] [21830] [INFO] [NRSDK] IMU stopping
+[2023-06-09 01:14:56.078] [21830] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:14:56.078] [21830] [INFO] [NRSDK] IMU stopped
+[2023-06-09 01:14:56.078] [21830] [INFO] [NRSDK] IMU releasing
+[2023-06-09 01:14:56.078] [21830] [INFO] [NRSDK] IMU released
+[2023-06-09 01:14:56.078] [21830] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 01:14:56.080] [21804] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 01:14:56.082] [21830] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 01:14:56.082] [21830] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 01:14:56.085] [21830] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 01:14:56.085] [21830] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 01:14:56.087] [21830] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 01:14:56.119] [21824] [ERROR] [NRSDK] Set Property 39 168011158812678 failed
+[2023-06-09 01:14:56.177] [21009] [INFO] [NRSDK] OnDisplayEvent: id:240 ev:2
+[2023-06-09 01:14:56.177] [21009] [INFO] [NRSDK] OnDisplayDeviceModify 240 2
+[2023-06-09 01:14:56.178] [21009] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:14:56.178] [21009] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:14:56.178] [21009] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 01:14:56.178] [21009] [INFO] [NRSDK] Display 2
+[2023-06-09 01:14:56.201] [21830] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 01:14:56.202] [21830] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 01:14:56.202] [21830] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:14:56.202] [21830] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 01:14:56.202] [21830] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 01:14:56.203] [21009] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] MCU stopping
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] MCU stopped
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] MCU releasing
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] MCU released
+[2023-06-09 01:14:56.219] [21830] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 01:14:56.220] [21830] [INFO] [NRSDK] NRSDK STOP!
+[2023-06-09 01:14:56.268] [21049] [WARN] [NRSDK] Log Info: pid:21009, time:2023-06-09 01:14:56 (-0700)
+[2023-06-09 01:14:56.268] [21049] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 01:14:56.268] [21714] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 15:47:57.769] [14466] [WARN] [NRSDK] Log Info: pid:14428, time:2023-06-09 15:47:57 (-0700)
+[2023-06-09 15:47:57.770] [14466] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 15:47:57.770] [14466] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 15:47:57.780] [14466] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 15:47:57.825] [14466] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 15:47:57.830] [14466] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 15:47:57.839] [14539] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 15:47:57.847] [14539] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 15:47:57.850] [14466] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 15:47:57.850] [14466] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 15:47:57.850] [14466] [INFO] [NRSDK] MCU initializing
+[2023-06-09 15:47:57.850] [14466] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 15:47:57.852] [14466] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 15:47:57.855] [14466] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:47:57.855] [14466] [INFO] [NRSDK] MCU initialized
+[2023-06-09 15:47:57.855] [14466] [INFO] [NRSDK] MCU starting
+[2023-06-09 15:47:57.855] [14466] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:47:57.855] [14466] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 15:47:57.898] [14466] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 15:47:57.971] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.022] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.073] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.124] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.175] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.226] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.277] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.328] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.379] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.430] [14466] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:47:58.430] [14466] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 15:47:58.481] [14466] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 15:47:58.615] [14466] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 15:47:58.615] [14466] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 15:47:58.624] [14466] [INFO] [NRSDK] MCU started
+[2023-06-09 15:47:58.627] [14466] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 15:47:58.631] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:47:58.633] [14466] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 15:47:58.634] [14466] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 15:47:58.635] [14466] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 15:47:58.641] [14466] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 15:47:58.847] [14658] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 15:47:58.847] [14658] [INFO] [NRSDK] IMU initializing
+[2023-06-09 15:47:58.847] [14658] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 15:47:58.849] [14658] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 15:47:58.860] [14658] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:47:58.860] [14658] [INFO] [NRSDK] IMU initialized
+[2023-06-09 15:47:58.876] [14658] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 15:47:58.877] [14658] [INFO] [NRSDK] IMU starting
+[2023-06-09 15:47:58.877] [14658] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:47:58.879] [14658] [INFO] [NRSDK] IMU started
+[2023-06-09 15:47:58.879] [14658] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 15:47:58.984] [14660] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 15:47:59.102] [14466] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 15:47:59.105] [14466] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 15:47:59.105] [14466] [INFO] [NRSDK] Display Type 2
+[2023-06-09 15:47:59.355] [14466] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 15:47:59.356] [14466] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 15:47:59.388] [14466] [INFO] [NRSDK] NRController START!
+[2023-06-09 15:47:59.388] [14466] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 15:47:59.403] [14466] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 15:47:59.406] [14466] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 15:47:59.408] [14681] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 15:47:59.408] [14681] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:47:59.413] [14681] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:47:59.535] [14428] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 15:47:59.535] [14428] [INFO] [NRSDK] Display 1
+[2023-06-09 15:47:59.978] [14527] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 15:47:59.978] [14527] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 15:47:59.978] [14527] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 15:47:59.983] [14527] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 15:47:59.993] [14527] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:47:59.993] [14527] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 15:48:00.002] [14660] [WARN] [NRSDK] IMU frequency = 900 Hz < 1000 Hz, prev ts = 52777 ms, curr ts = 53777 ms
+[2023-06-09 15:48:00.005] [14527] [INFO] [NRSDK] Vsync starting
+[2023-06-09 15:48:00.005] [14527] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:48:00.005] [14527] [INFO] [NRSDK] Vsync started
+[2023-06-09 15:48:00.007] [14527] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 15:48:00.018] [14527] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 15:48:00.020] [14684] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 15:48:00.029] [14654] [WARN] [NRSDK] Heartbeat recover from long sleep:179525486282869 0
+[2023-06-09 15:48:00.061] [14527] [INFO] [NRSDK] Start rendering
+[2023-06-09 15:48:00.063] [14685] [INFO] [NRSDK] current is 0
+[2023-06-09 15:48:00.078] [14685] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 15:48:08.409] [14681] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:48:08.640] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:48:09.828] [14654] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:48:11.409] [14681] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:48:14.423] [14681] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:48:18.651] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:48:20.079] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:48:26.409] [14681] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:48:28.661] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:48:32.409] [14681] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:48:38.423] [14681] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:48:38.671] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:48:40.095] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:48:48.681] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:48:51.002] [14660] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 103777 ms, curr ts = 104777 ms
+[2023-06-09 15:48:52.002] [14660] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 104777 ms, curr ts = 105777 ms
+[2023-06-09 15:48:53.002] [14660] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 105777 ms, curr ts = 106777 ms
+[2023-06-09 15:48:53.410] [14681] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:48:57.002] [14660] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 109777 ms, curr ts = 110777 ms
+[2023-06-09 15:48:58.692] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:00.112] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:49:02.411] [14681] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:49:03.002] [14660] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 115777 ms, curr ts = 116777 ms
+[2023-06-09 15:49:05.003] [14660] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 117778 ms, curr ts = 118778 ms
+[2023-06-09 15:49:08.003] [14660] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 120778 ms, curr ts = 121778 ms
+[2023-06-09 15:49:08.701] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:09.931] [14654] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:49:10.002] [14660] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 122778 ms, curr ts = 123778 ms
+[2023-06-09 15:49:11.433] [14681] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:49:16.003] [14660] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 128778 ms, curr ts = 129778 ms
+[2023-06-09 15:49:18.713] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:20.003] [14660] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 132778 ms, curr ts = 133778 ms
+[2023-06-09 15:49:20.112] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:49:22.003] [14660] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 134778 ms, curr ts = 135778 ms
+[2023-06-09 15:49:25.004] [14660] [WARN] [NRSDK] IMU frequency = 926 Hz < 1000 Hz, prev ts = 137779 ms, curr ts = 138779 ms
+[2023-06-09 15:49:26.003] [14660] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 138779 ms, curr ts = 139779 ms
+[2023-06-09 15:49:28.724] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:29.413] [14681] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:49:30.004] [14660] [WARN] [NRSDK] IMU frequency = 934 Hz < 1000 Hz, prev ts = 142779 ms, curr ts = 143779 ms
+[2023-06-09 15:49:30.211] [14654] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:49:36.004] [14660] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 148779 ms, curr ts = 149779 ms
+[2023-06-09 15:49:38.735] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:40.128] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:49:41.413] [14681] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:49:48.746] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:49:50.005] [14660] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 162779 ms, curr ts = 163779 ms
+[2023-06-09 15:49:53.434] [14681] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:49:55.005] [14660] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 167779 ms, curr ts = 168779 ms
+[2023-06-09 15:49:58.757] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:50:00.129] [14685] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:50:02.004] [14660] [WARN] [NRSDK] IMU frequency = 939 Hz < 1000 Hz, prev ts = 174779 ms, curr ts = 175779 ms
+[2023-06-09 15:50:06.004] [14660] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 178779 ms, curr ts = 179779 ms
+[2023-06-09 15:50:08.004] [14660] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 180779 ms, curr ts = 181779 ms
+[2023-06-09 15:50:08.769] [14657] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:50:09.988] [14654] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:50:13.005] [14660] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 185779 ms, curr ts = 186779 ms
+[2023-06-09 15:50:14.413] [14681] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:50:18.485] [14466] [INFO] [NRSDK] NRController PAUSE!
+[2023-06-09 15:50:18.491] [14466] [INFO] [NRSDK] Pause 3dof controller 0
+[2023-06-09 15:50:18.491] [14466] [INFO] [NRSDK] NRController PAUSED!
+[2023-06-09 15:50:18.493] [14466] [INFO] [NRSDK] NRTracking PAUSE!
+[2023-06-09 15:50:18.493] [14466] [INFO] [NRSDK] IMU pausing
+[2023-06-09 15:50:18.493] [14466] [INFO] [NRSDK] IMU stopping
+[2023-06-09 15:50:18.493] [14466] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:50:18.498] [14466] [INFO] [NRSDK] IMU stopped
+[2023-06-09 15:50:18.498] [14466] [INFO] [NRSDK] IMU releasing
+[2023-06-09 15:50:18.498] [14466] [INFO] [NRSDK] IMU released
+[2023-06-09 15:50:18.498] [14466] [INFO] [NRSDK] IMU paused
+[2023-06-09 15:50:18.498] [14466] [INFO] [NRSDK] NRTracking PAUSED!
+[2023-06-09 15:50:18.500] [14466] [INFO] [NRSDK] NRGlassesControl PAUSE!
+[2023-06-09 15:50:18.500] [14466] [INFO] [NRSDK] NRGlassesControl PAUSED!
+[2023-06-09 15:50:18.500] [14466] [INFO] [NRSDK] NRHMD PAUSE!
+[2023-06-09 15:50:18.500] [14466] [INFO] [NRSDK] NRHMD PAUSED!
+[2023-06-09 15:50:18.500] [14527] [INFO] [NRSDK] NRRendering PAUSE!
+[2023-06-09 15:50:18.501] [14527] [INFO] [NRSDK] Vsync pausing
+[2023-06-09 15:50:18.501] [14527] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 15:50:18.501] [14527] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:50:18.504] [14466] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 15:50:18.504] [14466] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 15:50:18.508] [14527] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 15:50:18.508] [14527] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 15:50:18.508] [14527] [INFO] [NRSDK] Vsync released
+[2023-06-09 15:50:18.508] [14527] [INFO] [NRSDK] Vsync paused
+[2023-06-09 15:50:18.508] [14527] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 15:50:18.534] [14685] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 15:50:18.534] [14527] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 15:50:18.535] [14527] [INFO] [NRSDK] NRRendering PAUSED!
+[2023-06-09 15:50:18.535] [14466] [INFO] [NRSDK] NRDisplay PAUSE!
+[2023-06-09 15:50:18.537] [14466] [INFO] [NRSDK] Turn Screen Off 0
+[2023-06-09 15:50:18.537] [14466] [INFO] [NRSDK] MCU pausing
+[2023-06-09 15:50:18.579] [14466] [INFO] [NRSDK] MCU stopping
+[2023-06-09 15:50:18.579] [14466] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:50:18.581] [14466] [INFO] [NRSDK] MCU stopped
+[2023-06-09 15:50:18.581] [14466] [INFO] [NRSDK] MCU releasing
+[2023-06-09 15:50:18.582] [14466] [INFO] [NRSDK] MCU released
+[2023-06-09 15:50:18.582] [14466] [INFO] [NRSDK] MCU paused
+[2023-06-09 15:50:18.582] [14466] [INFO] [NRSDK] NRDisplay PAUSED!
+[2023-06-09 15:51:15.051] [19054] [WARN] [NRSDK] Log Info: pid:19019, time:2023-06-09 15:51:15 (-0700)
+[2023-06-09 15:51:15.053] [19054] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 15:51:15.053] [19054] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 15:51:15.069] [19054] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 15:51:15.120] [19054] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 15:51:15.127] [19054] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 15:51:15.154] [19033] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 15:51:15.163] [19057] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 15:51:15.164] [19054] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 15:51:15.164] [19054] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 15:51:15.164] [19054] [INFO] [NRSDK] MCU initializing
+[2023-06-09 15:51:15.164] [19054] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 15:51:15.170] [19054] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 15:51:15.173] [19054] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:51:15.173] [19054] [INFO] [NRSDK] MCU initialized
+[2023-06-09 15:51:15.173] [19054] [INFO] [NRSDK] MCU starting
+[2023-06-09 15:51:15.173] [19054] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:51:15.173] [19054] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 15:51:15.214] [19054] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 15:51:15.287] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.339] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.391] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.443] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.496] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.549] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.601] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.652] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.705] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.757] [19054] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 15:51:15.757] [19054] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 15:51:15.809] [19054] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 15:51:15.952] [19054] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 15:51:15.954] [19054] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 15:51:15.962] [19054] [INFO] [NRSDK] MCU started
+[2023-06-09 15:51:15.965] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:51:15.968] [19054] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 15:51:15.971] [19054] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 15:51:15.971] [19054] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 15:51:15.972] [19054] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 15:51:15.986] [19054] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 15:51:16.205] [19361] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 15:51:16.225] [19361] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 15:51:16.226] [19361] [INFO] [NRSDK] IMU initializing
+[2023-06-09 15:51:16.226] [19361] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 15:51:16.230] [19361] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 15:51:16.243] [19361] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:51:16.243] [19361] [INFO] [NRSDK] IMU initialized
+[2023-06-09 15:51:16.243] [19361] [INFO] [NRSDK] IMU starting
+[2023-06-09 15:51:16.243] [19361] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:51:16.245] [19361] [INFO] [NRSDK] IMU started
+[2023-06-09 15:51:16.245] [19361] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 15:51:16.351] [19363] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 15:51:16.508] [19054] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 15:51:16.510] [19054] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 15:51:16.510] [19054] [INFO] [NRSDK] Display Type 2
+[2023-06-09 15:51:16.760] [19054] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 15:51:16.760] [19054] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 15:51:16.784] [19054] [INFO] [NRSDK] NRController START!
+[2023-06-09 15:51:16.784] [19054] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 15:51:16.796] [19054] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 15:51:16.799] [19054] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 15:51:16.800] [19408] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 15:51:16.800] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:51:16.803] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:51:16.890] [19019] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 15:51:16.890] [19019] [INFO] [NRSDK] Display 1
+[2023-06-09 15:51:17.370] [19363] [WARN] [NRSDK] IMU frequency = 928 Hz < 1000 Hz, prev ts = 250145 ms, curr ts = 251145 ms
+[2023-06-09 15:51:17.390] [19152] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 15:51:17.390] [19152] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 15:51:17.390] [19152] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 15:51:17.392] [19152] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 15:51:17.396] [19152] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 15:51:17.396] [19152] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 15:51:17.404] [19152] [INFO] [NRSDK] Vsync starting
+[2023-06-09 15:51:17.404] [19152] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 15:51:17.404] [19152] [INFO] [NRSDK] Vsync started
+[2023-06-09 15:51:17.405] [19152] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 15:51:17.411] [19152] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 15:51:17.420] [19418] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 15:51:17.442] [19152] [INFO] [NRSDK] Start rendering
+[2023-06-09 15:51:17.443] [19419] [INFO] [NRSDK] current is 0
+[2023-06-09 15:51:17.463] [19419] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 15:51:17.467] [19358] [WARN] [NRSDK] Heartbeat recover from long sleep:179722924108835 0
+[2023-06-09 15:51:25.802] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:51:25.977] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:51:28.803] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:51:31.816] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:51:35.988] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:51:37.479] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:51:43.802] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:51:45.997] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:51:49.803] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:51:53.371] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 286146 ms, curr ts = 287146 ms
+[2023-06-09 15:51:54.371] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 287146 ms, curr ts = 288146 ms
+[2023-06-09 15:51:55.823] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:51:56.015] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:51:57.495] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:52:06.027] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:09.374] [19363] [WARN] [NRSDK] IMU frequency = 944 Hz < 1000 Hz, prev ts = 302147 ms, curr ts = 303147 ms
+[2023-06-09 15:52:10.312] [19358] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:52:10.804] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:52:11.373] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 304147 ms, curr ts = 305148 ms
+[2023-06-09 15:52:15.373] [19363] [WARN] [NRSDK] IMU frequency = 943 Hz < 1000 Hz, prev ts = 308148 ms, curr ts = 309148 ms
+[2023-06-09 15:52:16.035] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:17.512] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:52:19.805] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:52:26.046] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:27.375] [19363] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 320150 ms, curr ts = 321150 ms
+[2023-06-09 15:52:28.823] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:52:32.375] [19363] [WARN] [NRSDK] IMU frequency = 940 Hz < 1000 Hz, prev ts = 325150 ms, curr ts = 326150 ms
+[2023-06-09 15:52:33.375] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 326150 ms, curr ts = 327150 ms
+[2023-06-09 15:52:34.376] [19363] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 327150 ms, curr ts = 328150 ms
+[2023-06-09 15:52:36.059] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:37.529] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:52:46.072] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:46.803] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:52:48.375] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 341150 ms, curr ts = 342150 ms
+[2023-06-09 15:52:51.375] [19363] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 344150 ms, curr ts = 345150 ms
+[2023-06-09 15:52:56.084] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:52:57.545] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:52:58.805] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:53:06.094] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:09.375] [19363] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 362150 ms, curr ts = 363150 ms
+[2023-06-09 15:53:10.508] [19358] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:53:10.833] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:53:14.375] [19363] [WARN] [NRSDK] IMU frequency = 943 Hz < 1000 Hz, prev ts = 367150 ms, curr ts = 368150 ms
+[2023-06-09 15:53:16.106] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:17.545] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:53:18.375] [19363] [WARN] [NRSDK] IMU frequency = 942 Hz < 1000 Hz, prev ts = 371150 ms, curr ts = 372150 ms
+[2023-06-09 15:53:19.375] [19363] [WARN] [NRSDK] IMU frequency = 942 Hz < 1000 Hz, prev ts = 372150 ms, curr ts = 373150 ms
+[2023-06-09 15:53:20.375] [19363] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 373150 ms, curr ts = 374150 ms
+[2023-06-09 15:53:25.374] [19363] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 378150 ms, curr ts = 379150 ms
+[2023-06-09 15:53:26.117] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:26.374] [19363] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 379150 ms, curr ts = 380150 ms
+[2023-06-09 15:53:30.375] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 383150 ms, curr ts = 384150 ms
+[2023-06-09 15:53:31.806] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:53:32.374] [19363] [WARN] [NRSDK] IMU frequency = 937 Hz < 1000 Hz, prev ts = 385150 ms, curr ts = 386150 ms
+[2023-06-09 15:53:36.129] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:37.562] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:53:46.137] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:46.807] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:53:48.375] [19363] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 401150 ms, curr ts = 402150 ms
+[2023-06-09 15:53:49.374] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 402150 ms, curr ts = 403150 ms
+[2023-06-09 15:53:54.375] [19363] [WARN] [NRSDK] IMU frequency = 914 Hz < 1000 Hz, prev ts = 407150 ms, curr ts = 408152 ms
+[2023-06-09 15:53:55.375] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 408152 ms, curr ts = 409152 ms
+[2023-06-09 15:53:56.148] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:53:57.562] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:54:01.376] [19363] [WARN] [NRSDK] IMU frequency = 944 Hz < 1000 Hz, prev ts = 414152 ms, curr ts = 415152 ms
+[2023-06-09 15:54:01.848] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:54:04.376] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 417152 ms, curr ts = 418152 ms
+[2023-06-09 15:54:05.376] [19363] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 418152 ms, curr ts = 419152 ms
+[2023-06-09 15:54:06.162] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:10.376] [19363] [WARN] [NRSDK] IMU frequency = 943 Hz < 1000 Hz, prev ts = 423152 ms, curr ts = 424152 ms
+[2023-06-09 15:54:10.616] [19358] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:54:11.376] [19363] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 424152 ms, curr ts = 425152 ms
+[2023-06-09 15:54:15.376] [19363] [WARN] [NRSDK] IMU frequency = 946 Hz < 1000 Hz, prev ts = 428152 ms, curr ts = 429152 ms
+[2023-06-09 15:54:16.171] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:17.376] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 430152 ms, curr ts = 431153 ms
+[2023-06-09 15:54:17.579] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:54:18.377] [19363] [WARN] [NRSDK] IMU frequency = 932 Hz < 1000 Hz, prev ts = 431153 ms, curr ts = 432153 ms
+[2023-06-09 15:54:21.377] [19363] [WARN] [NRSDK] IMU frequency = 938 Hz < 1000 Hz, prev ts = 434153 ms, curr ts = 435153 ms
+[2023-06-09 15:54:22.378] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 435153 ms, curr ts = 436153 ms
+[2023-06-09 15:54:23.377] [19363] [WARN] [NRSDK] IMU frequency = 927 Hz < 1000 Hz, prev ts = 436153 ms, curr ts = 437153 ms
+[2023-06-09 15:54:24.376] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 437153 ms, curr ts = 438153 ms
+[2023-06-09 15:54:25.805] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:54:26.183] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:26.376] [19363] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 439153 ms, curr ts = 440153 ms
+[2023-06-09 15:54:32.377] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 445153 ms, curr ts = 446153 ms
+[2023-06-09 15:54:34.377] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 447153 ms, curr ts = 448153 ms
+[2023-06-09 15:54:35.377] [19363] [WARN] [NRSDK] IMU frequency = 924 Hz < 1000 Hz, prev ts = 448153 ms, curr ts = 449153 ms
+[2023-06-09 15:54:36.194] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:37.595] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:54:38.378] [19363] [WARN] [NRSDK] IMU frequency = 934 Hz < 1000 Hz, prev ts = 451154 ms, curr ts = 452154 ms
+[2023-06-09 15:54:39.378] [19363] [WARN] [NRSDK] IMU frequency = 932 Hz < 1000 Hz, prev ts = 452154 ms, curr ts = 453154 ms
+[2023-06-09 15:54:40.379] [19363] [WARN] [NRSDK] IMU frequency = 928 Hz < 1000 Hz, prev ts = 453154 ms, curr ts = 454155 ms
+[2023-06-09 15:54:41.378] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 454155 ms, curr ts = 455155 ms
+[2023-06-09 15:54:43.807] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:54:46.206] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:54.380] [19363] [WARN] [NRSDK] IMU frequency = 943 Hz < 1000 Hz, prev ts = 467155 ms, curr ts = 468155 ms
+[2023-06-09 15:54:55.379] [19363] [WARN] [NRSDK] IMU frequency = 917 Hz < 1000 Hz, prev ts = 468155 ms, curr ts = 469155 ms
+[2023-06-09 15:54:56.214] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:54:57.379] [19363] [WARN] [NRSDK] IMU frequency = 911 Hz < 1000 Hz, prev ts = 470155 ms, curr ts = 471155 ms
+[2023-06-09 15:54:57.595] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:55:00.379] [19363] [WARN] [NRSDK] IMU frequency = 941 Hz < 1000 Hz, prev ts = 473155 ms, curr ts = 474155 ms
+[2023-06-09 15:55:01.853] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:55:02.379] [19363] [WARN] [NRSDK] IMU frequency = 925 Hz < 1000 Hz, prev ts = 475155 ms, curr ts = 476155 ms
+[2023-06-09 15:55:06.229] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:08.379] [19363] [WARN] [NRSDK] IMU frequency = 919 Hz < 1000 Hz, prev ts = 481155 ms, curr ts = 482155 ms
+[2023-06-09 15:55:10.682] [19358] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:55:11.378] [19363] [WARN] [NRSDK] IMU frequency = 920 Hz < 1000 Hz, prev ts = 484155 ms, curr ts = 485155 ms
+[2023-06-09 15:55:12.378] [19363] [WARN] [NRSDK] IMU frequency = 944 Hz < 1000 Hz, prev ts = 485155 ms, curr ts = 486155 ms
+[2023-06-09 15:55:16.239] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:17.379] [19363] [WARN] [NRSDK] IMU frequency = 932 Hz < 1000 Hz, prev ts = 490155 ms, curr ts = 491155 ms
+[2023-06-09 15:55:17.612] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:55:19.379] [19363] [WARN] [NRSDK] IMU frequency = 934 Hz < 1000 Hz, prev ts = 492155 ms, curr ts = 493155 ms
+[2023-06-09 15:55:20.378] [19363] [WARN] [NRSDK] IMU frequency = 938 Hz < 1000 Hz, prev ts = 493155 ms, curr ts = 494155 ms
+[2023-06-09 15:55:23.379] [19363] [WARN] [NRSDK] IMU frequency = 947 Hz < 1000 Hz, prev ts = 496155 ms, curr ts = 497155 ms
+[2023-06-09 15:55:25.806] [19408] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 15:55:26.248] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:29.380] [19363] [WARN] [NRSDK] IMU frequency = 927 Hz < 1000 Hz, prev ts = 502155 ms, curr ts = 503155 ms
+[2023-06-09 15:55:30.379] [19363] [WARN] [NRSDK] IMU frequency = 929 Hz < 1000 Hz, prev ts = 503155 ms, curr ts = 504155 ms
+[2023-06-09 15:55:31.379] [19363] [WARN] [NRSDK] IMU frequency = 937 Hz < 1000 Hz, prev ts = 504155 ms, curr ts = 505155 ms
+[2023-06-09 15:55:35.379] [19363] [WARN] [NRSDK] IMU frequency = 940 Hz < 1000 Hz, prev ts = 508155 ms, curr ts = 509155 ms
+[2023-06-09 15:55:36.263] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:36.379] [19363] [WARN] [NRSDK] IMU frequency = 935 Hz < 1000 Hz, prev ts = 509155 ms, curr ts = 510155 ms
+[2023-06-09 15:55:37.379] [19363] [WARN] [NRSDK] IMU frequency = 931 Hz < 1000 Hz, prev ts = 510155 ms, curr ts = 511155 ms
+[2023-06-09 15:55:37.629] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:55:38.379] [19363] [WARN] [NRSDK] IMU frequency = 938 Hz < 1000 Hz, prev ts = 511155 ms, curr ts = 512155 ms
+[2023-06-09 15:55:41.379] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 514155 ms, curr ts = 515155 ms
+[2023-06-09 15:55:42.379] [19363] [WARN] [NRSDK] IMU frequency = 940 Hz < 1000 Hz, prev ts = 515155 ms, curr ts = 516155 ms
+[2023-06-09 15:55:43.379] [19363] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 516155 ms, curr ts = 517155 ms
+[2023-06-09 15:55:43.809] [19408] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 15:55:46.273] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:51.378] [19363] [WARN] [NRSDK] IMU frequency = 948 Hz < 1000 Hz, prev ts = 524155 ms, curr ts = 525155 ms
+[2023-06-09 15:55:52.379] [19363] [WARN] [NRSDK] IMU frequency = 945 Hz < 1000 Hz, prev ts = 525155 ms, curr ts = 526156 ms
+[2023-06-09 15:55:53.380] [19363] [WARN] [NRSDK] IMU frequency = 943 Hz < 1000 Hz, prev ts = 526156 ms, curr ts = 527156 ms
+[2023-06-09 15:55:56.282] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:55:57.629] [19419] [INFO] [NRSDK] skip: 0
+[2023-06-09 15:56:01.853] [19408] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 15:56:03.380] [19363] [WARN] [NRSDK] IMU frequency = 935 Hz < 1000 Hz, prev ts = 536156 ms, curr ts = 537156 ms
+[2023-06-09 15:56:05.380] [19363] [WARN] [NRSDK] IMU frequency = 949 Hz < 1000 Hz, prev ts = 538156 ms, curr ts = 539156 ms
+[2023-06-09 15:56:06.294] [19360] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 15:56:08.380] [19363] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 541156 ms, curr ts = 542156 ms
+[2023-06-09 15:56:09.381] [19363] [WARN] [NRSDK] IMU frequency = 918 Hz < 1000 Hz, prev ts = 542156 ms, curr ts = 543157 ms
+[2023-06-09 15:56:10.381] [19363] [WARN] [NRSDK] IMU frequency = 931 Hz < 1000 Hz, prev ts = 543157 ms, curr ts = 544157 ms
+[2023-06-09 15:56:10.744] [19358] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 15:56:11.716] [19054] [INFO] [NRSDK] NRController PAUSE!
+[2023-06-09 15:56:11.724] [19054] [INFO] [NRSDK] Pause 3dof controller 0
+[2023-06-09 15:56:11.724] [19054] [INFO] [NRSDK] NRController PAUSED!
+[2023-06-09 15:56:11.726] [19054] [INFO] [NRSDK] NRTracking PAUSE!
+[2023-06-09 15:56:11.727] [19054] [INFO] [NRSDK] IMU pausing
+[2023-06-09 15:56:11.727] [19054] [INFO] [NRSDK] IMU stopping
+[2023-06-09 15:56:11.727] [19054] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:56:11.730] [19054] [INFO] [NRSDK] IMU stopped
+[2023-06-09 15:56:11.731] [19054] [INFO] [NRSDK] IMU releasing
+[2023-06-09 15:56:11.731] [19054] [INFO] [NRSDK] IMU released
+[2023-06-09 15:56:11.731] [19054] [INFO] [NRSDK] IMU paused
+[2023-06-09 15:56:11.731] [19054] [INFO] [NRSDK] NRTracking PAUSED!
+[2023-06-09 15:56:11.731] [19152] [INFO] [NRSDK] NRRendering PAUSE!
+[2023-06-09 15:56:11.731] [19152] [INFO] [NRSDK] Vsync pausing
+[2023-06-09 15:56:11.731] [19152] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 15:56:11.731] [19152] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:56:11.738] [19152] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 15:56:11.738] [19152] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 15:56:11.738] [19152] [INFO] [NRSDK] Vsync released
+[2023-06-09 15:56:11.738] [19152] [INFO] [NRSDK] Vsync paused
+[2023-06-09 15:56:11.738] [19152] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 15:56:11.756] [19419] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 15:56:11.756] [19152] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 15:56:11.756] [19152] [INFO] [NRSDK] NRRendering PAUSED!
+[2023-06-09 15:56:11.757] [19054] [INFO] [NRSDK] NRGlassesControl PAUSE!
+[2023-06-09 15:56:11.757] [19054] [INFO] [NRSDK] NRGlassesControl PAUSED!
+[2023-06-09 15:56:11.758] [19054] [INFO] [NRSDK] NRHMD PAUSE!
+[2023-06-09 15:56:11.758] [19054] [INFO] [NRSDK] NRHMD PAUSED!
+[2023-06-09 15:56:11.779] [19054] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 15:56:11.780] [19054] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 15:56:11.781] [19054] [INFO] [NRSDK] NRDisplay PAUSE!
+[2023-06-09 15:56:11.784] [19054] [INFO] [NRSDK] Turn Screen Off 0
+[2023-06-09 15:56:11.784] [19054] [INFO] [NRSDK] MCU pausing
+[2023-06-09 15:56:11.799] [19054] [INFO] [NRSDK] MCU stopping
+[2023-06-09 15:56:11.799] [19054] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 15:56:11.807] [19054] [INFO] [NRSDK] MCU stopped
+[2023-06-09 15:56:11.807] [19054] [INFO] [NRSDK] MCU releasing
+[2023-06-09 15:56:11.807] [19054] [INFO] [NRSDK] MCU released
+[2023-06-09 15:56:11.807] [19054] [INFO] [NRSDK] MCU paused
+[2023-06-09 15:56:11.807] [19054] [INFO] [NRSDK] NRDisplay PAUSED!
+[2023-06-09 16:02:46.438] [28918] [WARN] [NRSDK] Log Info: pid:28882, time:2023-06-09 16:02:46 (-0700)
+[2023-06-09 16:02:46.440] [28918] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 16:02:46.440] [28918] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 16:02:46.462] [28918] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 16:02:46.508] [28918] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 16:02:46.515] [28918] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 16:02:46.530] [28895] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 16:02:46.539] [28920] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 16:02:46.539] [28918] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 16:02:46.539] [28918] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 16:02:46.539] [28918] [INFO] [NRSDK] MCU initializing
+[2023-06-09 16:02:46.539] [28918] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 16:02:46.542] [28918] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 16:02:46.545] [28918] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:02:46.545] [28918] [INFO] [NRSDK] MCU initialized
+[2023-06-09 16:02:46.545] [28918] [INFO] [NRSDK] MCU starting
+[2023-06-09 16:02:46.545] [28918] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:02:46.545] [28918] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 16:02:46.566] [29285] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 16:02:46.577] [28918] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 16:02:46.650] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.702] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.754] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.805] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.856] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.908] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:46.959] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:47.010] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:47.062] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:47.113] [28918] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:02:47.113] [28918] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 16:02:47.164] [28918] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 16:02:47.294] [28918] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 16:02:47.295] [28918] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 16:02:47.302] [28918] [INFO] [NRSDK] MCU started
+[2023-06-09 16:02:47.305] [29347] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 16:02:47.310] [28918] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 16:02:47.313] [28918] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 16:02:47.313] [28918] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 16:02:47.315] [28918] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 16:02:47.328] [28918] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 16:02:47.515] [29348] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 16:02:47.515] [29348] [INFO] [NRSDK] IMU initializing
+[2023-06-09 16:02:47.515] [29348] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 16:02:47.518] [29348] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 16:02:47.529] [29348] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:02:47.529] [29348] [INFO] [NRSDK] IMU initialized
+[2023-06-09 16:02:47.543] [29348] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 16:02:47.544] [29348] [INFO] [NRSDK] IMU starting
+[2023-06-09 16:02:47.544] [29348] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:02:47.545] [29348] [INFO] [NRSDK] IMU started
+[2023-06-09 16:02:47.546] [29348] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 16:02:47.651] [29351] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 16:02:47.775] [28918] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 16:02:47.777] [28918] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 16:02:47.777] [28918] [INFO] [NRSDK] Display Type 2
+[2023-06-09 16:02:48.027] [28918] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 16:02:48.029] [28918] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 16:02:48.063] [28918] [INFO] [NRSDK] NRController START!
+[2023-06-09 16:02:48.063] [28918] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 16:02:48.074] [28918] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 16:02:48.079] [28918] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 16:02:48.080] [29372] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 16:02:48.081] [29372] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 16:02:48.084] [29372] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 16:02:48.190] [28882] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 16:02:48.190] [28882] [INFO] [NRSDK] Display 1
+[2023-06-09 16:02:48.657] [28980] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 16:02:48.672] [28980] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 16:02:48.672] [28980] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 16:02:48.676] [28980] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 16:02:48.682] [28980] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:02:48.682] [28980] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 16:02:48.683] [28980] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 16:02:48.692] [28980] [INFO] [NRSDK] Vsync starting
+[2023-06-09 16:02:48.692] [28980] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:02:48.692] [28980] [INFO] [NRSDK] Vsync started
+[2023-06-09 16:02:48.692] [28980] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 16:02:48.705] [29375] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 16:02:48.707] [29285] [WARN] [NRSDK] Heartbeat recover from long sleep:180414164293780 0
+[2023-06-09 16:02:48.738] [28980] [INFO] [NRSDK] Start rendering
+[2023-06-09 16:02:48.740] [29376] [INFO] [NRSDK] current is 0
+[2023-06-09 16:02:48.746] [29376] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 16:02:49.670] [29351] [WARN] [NRSDK] IMU frequency = 905 Hz < 1000 Hz, prev ts = 27271 ms, curr ts = 28271 ms
+[2023-06-09 16:02:57.082] [29372] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 16:02:57.316] [29347] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 16:03:00.082] [29372] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 16:03:02.586] [28918] [INFO] [NRSDK] NRController PAUSE!
+[2023-06-09 16:03:02.590] [28918] [INFO] [NRSDK] Pause 3dof controller 0
+[2023-06-09 16:03:02.590] [28918] [INFO] [NRSDK] NRController PAUSED!
+[2023-06-09 16:03:02.595] [28918] [INFO] [NRSDK] NRTracking PAUSE!
+[2023-06-09 16:03:02.595] [28918] [INFO] [NRSDK] IMU pausing
+[2023-06-09 16:03:02.595] [28918] [INFO] [NRSDK] IMU stopping
+[2023-06-09 16:03:02.596] [28918] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:03:02.622] [28918] [INFO] [NRSDK] IMU stopped
+[2023-06-09 16:03:02.622] [28918] [INFO] [NRSDK] IMU releasing
+[2023-06-09 16:03:02.622] [28918] [INFO] [NRSDK] IMU released
+[2023-06-09 16:03:02.622] [28918] [INFO] [NRSDK] IMU paused
+[2023-06-09 16:03:02.622] [28918] [INFO] [NRSDK] NRTracking PAUSED!
+[2023-06-09 16:03:02.623] [28918] [INFO] [NRSDK] NRGlassesControl PAUSE!
+[2023-06-09 16:03:02.623] [28918] [INFO] [NRSDK] NRGlassesControl PAUSED!
+[2023-06-09 16:03:02.623] [28980] [INFO] [NRSDK] NRRendering PAUSE!
+[2023-06-09 16:03:02.623] [28980] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 16:03:02.639] [29376] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 16:03:02.640] [28980] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 16:03:02.640] [28980] [INFO] [NRSDK] Vsync pausing
+[2023-06-09 16:03:02.640] [28980] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 16:03:02.640] [28980] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:03:02.643] [28980] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 16:03:02.643] [28980] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 16:03:02.643] [28980] [INFO] [NRSDK] Vsync released
+[2023-06-09 16:03:02.643] [28980] [INFO] [NRSDK] Vsync paused
+[2023-06-09 16:03:02.643] [28980] [INFO] [NRSDK] NRRendering PAUSED!
+[2023-06-09 16:03:02.643] [28918] [INFO] [NRSDK] NRHMD PAUSE!
+[2023-06-09 16:03:02.643] [28918] [INFO] [NRSDK] NRHMD PAUSED!
+[2023-06-09 16:03:02.647] [28918] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 16:03:02.647] [28918] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 16:03:02.648] [28918] [INFO] [NRSDK] NRDisplay PAUSE!
+[2023-06-09 16:03:02.651] [28918] [INFO] [NRSDK] Turn Screen Off 0
+[2023-06-09 16:03:02.651] [28918] [INFO] [NRSDK] MCU pausing
+[2023-06-09 16:03:02.719] [28918] [INFO] [NRSDK] MCU stopping
+[2023-06-09 16:03:02.719] [28918] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:03:02.724] [28918] [INFO] [NRSDK] MCU stopped
+[2023-06-09 16:03:02.724] [28918] [INFO] [NRSDK] MCU releasing
+[2023-06-09 16:03:02.724] [28918] [INFO] [NRSDK] MCU released
+[2023-06-09 16:03:02.724] [28918] [INFO] [NRSDK] MCU paused
+[2023-06-09 16:03:02.724] [28918] [INFO] [NRSDK] NRDisplay PAUSED!
+[2023-06-09 16:05:40.080] [31816] [WARN] [NRSDK] Log Info: pid:31098, time:2023-06-09 16:05:40 (-0700)
+[2023-06-09 16:05:40.081] [31816] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 16:05:40.081] [31816] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 16:05:40.096] [31816] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 16:05:40.142] [31816] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 16:05:40.150] [31816] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 16:05:40.167] [31119] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 16:05:40.179] [31119] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 16:05:40.179] [31816] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 16:05:40.179] [31816] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 16:05:40.179] [31816] [INFO] [NRSDK] MCU initializing
+[2023-06-09 16:05:40.179] [31816] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 16:05:40.182] [31816] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 16:05:40.187] [31816] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:05:40.187] [31816] [INFO] [NRSDK] MCU initialized
+[2023-06-09 16:05:40.187] [31816] [INFO] [NRSDK] MCU starting
+[2023-06-09 16:05:40.187] [31816] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:05:40.188] [31816] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 16:05:40.229] [31816] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 16:05:40.302] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.356] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.409] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.461] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.513] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.565] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.618] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.673] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.725] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.777] [31816] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 16:05:40.777] [31816] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 16:05:40.830] [31816] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 16:05:40.948] [31816] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 16:05:40.950] [31816] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 16:05:40.958] [31816] [INFO] [NRSDK] MCU started
+[2023-06-09 16:05:40.962] [31974] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 16:05:40.965] [31816] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 16:05:40.970] [31816] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 16:05:40.970] [31816] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 16:05:40.973] [31816] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 16:05:40.986] [31816] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 16:05:41.174] [31975] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 16:05:41.174] [31975] [INFO] [NRSDK] IMU initializing
+[2023-06-09 16:05:41.174] [31975] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 16:05:41.178] [31975] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 16:05:41.191] [31975] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:05:41.192] [31975] [INFO] [NRSDK] IMU initialized
+[2023-06-09 16:05:41.207] [31975] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 16:05:41.208] [31975] [INFO] [NRSDK] IMU starting
+[2023-06-09 16:05:41.208] [31975] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:05:41.209] [31975] [INFO] [NRSDK] IMU started
+[2023-06-09 16:05:41.210] [31975] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 16:05:41.315] [31977] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 16:05:41.425] [31816] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 16:05:41.427] [31816] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 16:05:41.427] [31816] [INFO] [NRSDK] Display Type 2
+[2023-06-09 16:05:41.677] [31816] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 16:05:41.678] [31816] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 16:05:41.708] [31816] [INFO] [NRSDK] NRController START!
+[2023-06-09 16:05:41.708] [31816] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 16:05:41.721] [31816] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 16:05:41.725] [31816] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 16:05:41.727] [31998] [INFO] [NRSDK] Receiving data 3: Same
+[2023-06-09 16:05:41.727] [31998] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 16:05:41.727] [31998] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 16:05:41.846] [31098] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 16:05:41.846] [31098] [INFO] [NRSDK] Display 1
+[2023-06-09 16:05:42.287] [31887] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 16:05:42.289] [31887] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 16:05:42.289] [31887] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 16:05:42.294] [31887] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 16:05:42.304] [31887] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 16:05:42.304] [31887] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 16:05:42.310] [31887] [INFO] [NRSDK] Vsync starting
+[2023-06-09 16:05:42.310] [31887] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 16:05:42.311] [31887] [INFO] [NRSDK] Vsync started
+[2023-06-09 16:05:42.311] [31887] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 16:05:42.320] [31887] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 16:05:42.321] [32005] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 16:05:42.334] [31977] [WARN] [NRSDK] IMU frequency = 908 Hz < 1000 Hz, prev ts = 32326 ms, curr ts = 33326 ms
+[2023-06-09 16:05:42.364] [31972] [WARN] [NRSDK] Heartbeat recover from long sleep:180587820668453 0
+[2023-06-09 16:05:42.370] [31887] [INFO] [NRSDK] Start rendering
+[2023-06-09 16:05:42.372] [32006] [INFO] [NRSDK] current is 0
+[2023-06-09 16:05:42.378] [32006] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 16:05:50.727] [31998] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 16:05:50.975] [31974] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 16:05:53.728] [31998] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 16:05:56.737] [31998] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 16:05:57.334] [31977] [WARN] [NRSDK] IMU frequency = 936 Hz < 1000 Hz, prev ts = 47326 ms, curr ts = 48326 ms
+[2023-06-09 16:05:58.334] [31977] [WARN] [NRSDK] IMU frequency = 934 Hz < 1000 Hz, prev ts = 48326 ms, curr ts = 49326 ms
+[2023-06-09 16:06:00.983] [31974] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 16:06:02.379] [32006] [INFO] [NRSDK] skip: 0
+[2023-06-09 16:06:03.333] [31977] [WARN] [NRSDK] IMU frequency = 940 Hz < 1000 Hz, prev ts = 53326 ms, curr ts = 54326 ms
+[2023-06-09 16:06:05.299] [31816] [INFO] [NRSDK] NRController PAUSE!
+[2023-06-09 16:06:05.301] [31816] [INFO] [NRSDK] Pause 3dof controller 0
+[2023-06-09 16:06:05.301] [31816] [INFO] [NRSDK] NRController PAUSED!
+[2023-06-09 16:06:05.305] [31816] [INFO] [NRSDK] NRTracking PAUSE!
+[2023-06-09 16:06:05.305] [31816] [INFO] [NRSDK] IMU pausing
+[2023-06-09 16:06:05.306] [31816] [INFO] [NRSDK] IMU stopping
+[2023-06-09 16:06:05.307] [31816] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:06:05.313] [31816] [INFO] [NRSDK] IMU stopped
+[2023-06-09 16:06:05.313] [31816] [INFO] [NRSDK] IMU releasing
+[2023-06-09 16:06:05.313] [31816] [INFO] [NRSDK] IMU released
+[2023-06-09 16:06:05.313] [31816] [INFO] [NRSDK] IMU paused
+[2023-06-09 16:06:05.313] [31816] [INFO] [NRSDK] NRTracking PAUSED!
+[2023-06-09 16:06:05.314] [31816] [INFO] [NRSDK] NRGlassesControl PAUSE!
+[2023-06-09 16:06:05.314] [31816] [INFO] [NRSDK] NRGlassesControl PAUSED!
+[2023-06-09 16:06:05.315] [31816] [INFO] [NRSDK] NRHMD PAUSE!
+[2023-06-09 16:06:05.315] [31816] [INFO] [NRSDK] NRHMD PAUSED!
+[2023-06-09 16:06:05.317] [31887] [INFO] [NRSDK] NRRendering PAUSE!
+[2023-06-09 16:06:05.317] [31887] [INFO] [NRSDK] Vsync pausing
+[2023-06-09 16:06:05.317] [31887] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 16:06:05.317] [31887] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:06:05.319] [31816] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 16:06:05.319] [31816] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 16:06:05.323] [31887] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 16:06:05.323] [31887] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 16:06:05.324] [31887] [INFO] [NRSDK] Vsync released
+[2023-06-09 16:06:05.324] [31887] [INFO] [NRSDK] Vsync paused
+[2023-06-09 16:06:05.324] [31887] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 16:06:05.339] [32006] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 16:06:05.340] [31887] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 16:06:05.340] [31887] [INFO] [NRSDK] NRRendering PAUSED!
+[2023-06-09 16:06:05.340] [31816] [INFO] [NRSDK] NRDisplay PAUSE!
+[2023-06-09 16:06:05.344] [31816] [INFO] [NRSDK] Turn Screen Off 0
+[2023-06-09 16:06:05.344] [31816] [INFO] [NRSDK] MCU pausing
+[2023-06-09 16:06:05.386] [31816] [INFO] [NRSDK] MCU stopping
+[2023-06-09 16:06:05.386] [31816] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 16:06:05.393] [31816] [INFO] [NRSDK] MCU stopped
+[2023-06-09 16:06:05.393] [31816] [INFO] [NRSDK] MCU releasing
+[2023-06-09 16:06:05.394] [31816] [INFO] [NRSDK] MCU released
+[2023-06-09 16:06:05.394] [31816] [INFO] [NRSDK] MCU paused
+[2023-06-09 16:06:05.394] [31816] [INFO] [NRSDK] NRDisplay PAUSED!
+[2023-06-09 17:25:56.667] [9526] [WARN] [NRSDK] Log Info: pid:9493, time:2023-06-09 17:25:56 (-0700)
+[2023-06-09 17:25:56.668] [9526] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 17:25:56.669] [9526] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 17:25:56.687] [9526] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 17:25:56.738] [9526] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 17:25:56.745] [9526] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 17:25:56.761] [9506] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 17:25:56.770] [9506] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 17:25:56.770] [9526] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 17:25:56.771] [9526] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 17:25:56.771] [9526] [INFO] [NRSDK] MCU initializing
+[2023-06-09 17:25:56.771] [9526] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 17:25:56.773] [9526] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 17:25:56.778] [9526] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:25:56.778] [9526] [INFO] [NRSDK] MCU initialized
+[2023-06-09 17:25:56.778] [9526] [INFO] [NRSDK] MCU starting
+[2023-06-09 17:25:56.778] [9526] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:25:56.778] [9526] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 17:25:56.822] [9526] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 17:25:56.898] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:56.950] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.002] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.054] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.106] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.159] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.212] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.264] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.318] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.372] [9526] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:25:57.373] [9526] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 17:25:57.426] [9526] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 17:25:57.543] [9526] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 17:25:57.545] [9526] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 17:25:57.556] [9526] [INFO] [NRSDK] MCU started
+[2023-06-09 17:25:57.560] [9682] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:25:57.564] [9526] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 17:25:57.569] [9526] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 17:25:57.569] [9526] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 17:25:57.571] [9526] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 17:25:57.581] [9526] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 17:25:57.788] [9683] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 17:25:57.789] [9683] [INFO] [NRSDK] IMU initializing
+[2023-06-09 17:25:57.789] [9683] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 17:25:57.793] [9683] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 17:25:57.805] [9683] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:25:57.805] [9683] [INFO] [NRSDK] IMU initialized
+[2023-06-09 17:25:57.821] [9683] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 17:25:57.822] [9683] [INFO] [NRSDK] IMU starting
+[2023-06-09 17:25:57.822] [9683] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:25:57.823] [9683] [INFO] [NRSDK] IMU started
+[2023-06-09 17:25:57.824] [9683] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 17:25:57.929] [9685] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 17:25:58.045] [9526] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 17:25:58.047] [9526] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 17:25:58.047] [9526] [INFO] [NRSDK] Display Type 2
+[2023-06-09 17:25:58.298] [9526] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 17:25:58.298] [9526] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 17:25:58.321] [9526] [INFO] [NRSDK] NRController START!
+[2023-06-09 17:25:58.321] [9526] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 17:25:58.330] [9526] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 17:25:58.333] [9738] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 17:25:58.334] [9526] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 17:25:58.335] [9738] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 17:25:58.336] [9738] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 17:25:58.435] [9493] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 17:25:58.435] [9493] [INFO] [NRSDK] Display 1
+[2023-06-09 17:25:58.899] [9595] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 17:25:58.899] [9595] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 17:25:58.899] [9595] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 17:25:58.901] [9595] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 17:25:58.906] [9595] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:25:58.906] [9595] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 17:25:58.913] [9595] [INFO] [NRSDK] Vsync starting
+[2023-06-09 17:25:58.913] [9595] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:25:58.913] [9595] [INFO] [NRSDK] Vsync started
+[2023-06-09 17:25:58.914] [9595] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 17:25:58.920] [9595] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 17:25:58.927] [9751] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 17:25:58.947] [9685] [WARN] [NRSDK] IMU frequency = 916 Hz < 1000 Hz, prev ts = 37682 ms, curr ts = 38682 ms
+[2023-06-09 17:25:58.948] [9595] [INFO] [NRSDK] Start rendering
+[2023-06-09 17:25:58.949] [9752] [INFO] [NRSDK] current is 0
+[2023-06-09 17:25:58.953] [9752] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 17:25:58.961] [9679] [WARN] [NRSDK] Heartbeat recover from long sleep:185317041478680 0
+[2023-06-09 17:26:07.334] [9738] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 17:26:07.572] [9682] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:26:10.337] [9738] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 17:26:13.346] [9738] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 17:26:17.585] [9682] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:26:18.969] [9752] [INFO] [NRSDK] skip: 0
+[2023-06-09 17:26:23.844] [9679] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 17:26:25.336] [9738] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 17:26:27.594] [9682] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:26:28.394] [9526] [INFO] [NRSDK] NRController PAUSE!
+[2023-06-09 17:26:28.399] [9526] [INFO] [NRSDK] Pause 3dof controller 0
+[2023-06-09 17:26:28.399] [9526] [INFO] [NRSDK] NRController PAUSED!
+[2023-06-09 17:26:28.404] [9526] [INFO] [NRSDK] NRTracking PAUSE!
+[2023-06-09 17:26:28.404] [9526] [INFO] [NRSDK] IMU pausing
+[2023-06-09 17:26:28.404] [9526] [INFO] [NRSDK] IMU stopping
+[2023-06-09 17:26:28.404] [9526] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:26:28.413] [9526] [INFO] [NRSDK] IMU stopped
+[2023-06-09 17:26:28.413] [9526] [INFO] [NRSDK] IMU releasing
+[2023-06-09 17:26:28.413] [9526] [INFO] [NRSDK] IMU released
+[2023-06-09 17:26:28.413] [9526] [INFO] [NRSDK] IMU paused
+[2023-06-09 17:26:28.413] [9526] [INFO] [NRSDK] NRTracking PAUSED!
+[2023-06-09 17:26:28.413] [9595] [INFO] [NRSDK] NRRendering PAUSE!
+[2023-06-09 17:26:28.413] [9595] [INFO] [NRSDK] Vsync pausing
+[2023-06-09 17:26:28.413] [9595] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 17:26:28.413] [9595] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:26:28.419] [9595] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 17:26:28.419] [9595] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 17:26:28.419] [9595] [INFO] [NRSDK] Vsync released
+[2023-06-09 17:26:28.419] [9595] [INFO] [NRSDK] Vsync paused
+[2023-06-09 17:26:28.419] [9595] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 17:26:28.429] [9752] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 17:26:28.429] [9595] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 17:26:28.429] [9595] [INFO] [NRSDK] NRRendering PAUSED!
+[2023-06-09 17:26:28.429] [9526] [INFO] [NRSDK] NRGlassesControl PAUSE!
+[2023-06-09 17:26:28.429] [9526] [INFO] [NRSDK] NRGlassesControl PAUSED!
+[2023-06-09 17:26:28.430] [9526] [INFO] [NRSDK] NRHMD PAUSE!
+[2023-06-09 17:26:28.430] [9526] [INFO] [NRSDK] NRHMD PAUSED!
+[2023-06-09 17:26:28.434] [9526] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 17:26:28.434] [9526] [ERROR] [NRSDK] NRController Session Invalid Argument!
+[2023-06-09 17:26:28.435] [9526] [INFO] [NRSDK] NRDisplay PAUSE!
+[2023-06-09 17:26:28.438] [9526] [INFO] [NRSDK] Turn Screen Off 0
+[2023-06-09 17:26:28.438] [9526] [INFO] [NRSDK] MCU pausing
+[2023-06-09 17:26:28.494] [9526] [INFO] [NRSDK] MCU stopping
+[2023-06-09 17:26:28.494] [9526] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:26:28.497] [9526] [INFO] [NRSDK] MCU stopped
+[2023-06-09 17:26:28.497] [9526] [INFO] [NRSDK] MCU releasing
+[2023-06-09 17:26:28.497] [9526] [INFO] [NRSDK] MCU released
+[2023-06-09 17:26:28.497] [9526] [INFO] [NRSDK] MCU paused
+[2023-06-09 17:26:28.497] [9526] [INFO] [NRSDK] NRDisplay PAUSED!
+[2023-06-09 17:30:17.425] [15300] [WARN] [NRSDK] Log Info: pid:15267, time:2023-06-09 17:30:17 (-0700)
+[2023-06-09 17:30:17.427] [15300] [INFO] [NRSDK] NRSDK Version: 1.10.1.2023013012
+[2023-06-09 17:30:17.427] [15300] [INFO] [NRSDK] NRSDK Create!
+[2023-06-09 17:30:17.446] [15300] [INFO] [NRSDK] NRSDK Init!
+[2023-06-09 17:30:17.497] [15300] [INFO] [NRSDK] NRSDK Init Switch!
+[2023-06-09 17:30:17.505] [15300] [INFO] [NRSDK] Detected Server Info:ai.nreal.nebula.universal
+[2023-06-09 17:30:17.520] [15303] [INFO] [NRSDK] Server Version: 1.100.21
+[2023-06-09 17:30:17.529] [15292] [INFO] [NRSDK] HMD Device type :2
+[2023-06-09 17:30:17.529] [15300] [INFO] [NRSDK] NRSDK Configure Mode=0!
+[2023-06-09 17:30:17.529] [15300] [INFO] [NRSDK] NRGlassesControl START!
+[2023-06-09 17:30:17.529] [15300] [INFO] [NRSDK] MCU initializing
+[2023-06-09 17:30:17.529] [15300] [INFO] [NRSDK] MCU device type [2]
+[2023-06-09 17:30:17.532] [15300] [INFO] [NRSDK] MCU got handle, work type = 0
+[2023-06-09 17:30:17.536] [15300] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:30:17.536] [15300] [INFO] [NRSDK] MCU initialized
+[2023-06-09 17:30:17.536] [15300] [INFO] [NRSDK] MCU starting
+[2023-06-09 17:30:17.536] [15300] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:30:17.537] [15300] [INFO] [NRSDK] MCU type = 2
+[2023-06-09 17:30:17.581] [15300] [INFO] [NRSDK] MCU software version : 07.1.02.266_20230525
+[2023-06-09 17:30:17.657] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.710] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.762] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.814] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.867] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.921] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:17.974] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:18.026] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:18.079] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:18.132] [15300] [WARN] [NRSDK] [Read reserved sn1] timeout, retry.
+[2023-06-09 17:30:18.132] [15300] [WARN] [NRSDK] Get RESERVED_SN1 from air glasses failed
+[2023-06-09 17:30:18.186] [15300] [WARN] [NRSDK] [Read Glass ID] timeout.
+[2023-06-09 17:30:18.302] [15300] [INFO] [NRSDK] GlassesFWInfo : 07.1.00.001_1.0.1.7_1.1
+[2023-06-09 17:30:18.303] [15300] [INFO] [NRSDK] MCU protocol build date(07.1.02.266_20230525) not exist, using default protocol, which may cause some functions to not work properly
+[2023-06-09 17:30:18.313] [15300] [INFO] [NRSDK] MCU started
+[2023-06-09 17:30:18.317] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:30:18.319] [15300] [INFO] [NRSDK] Supported Devices 513
+[2023-06-09 17:30:18.327] [15300] [INFO] [NRSDK] Supported Displays 5
+[2023-06-09 17:30:18.327] [15300] [INFO] [NRSDK] NRGlassesControl RUN!
+[2023-06-09 17:30:18.331] [15300] [INFO] [NRSDK] NRHMD START!
+[2023-06-09 17:30:18.340] [15300] [INFO] [NRSDK] NRHMD RUN!
+[2023-06-09 17:30:18.571] [15449] [INFO] [NRSDK] NRTracking START!
+[2023-06-09 17:30:18.590] [15449] [INFO] [NRSDK] Use Default 3dof tracker lib
+[2023-06-09 17:30:18.591] [15449] [INFO] [NRSDK] IMU initializing
+[2023-06-09 17:30:18.591] [15449] [INFO] [NRSDK] IMU device type [2]
+[2023-06-09 17:30:18.595] [15449] [INFO] [NRSDK] IMU got handle, work type = 0
+[2023-06-09 17:30:18.605] [15449] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:30:18.605] [15449] [INFO] [NRSDK] IMU initialized
+[2023-06-09 17:30:18.606] [15449] [INFO] [NRSDK] IMU starting
+[2023-06-09 17:30:18.606] [15449] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:30:18.607] [15449] [INFO] [NRSDK] IMU started
+[2023-06-09 17:30:18.607] [15449] [INFO] [NRSDK] NRTracking RUN!
+[2023-06-09 17:30:18.714] [15452] [INFO] [NRSDK] IMU Generic Protocol version : 20220101
+[2023-06-09 17:30:18.829] [15300] [INFO] [NRSDK] NRDisplay START!
+[2023-06-09 17:30:18.831] [15300] [INFO] [NRSDK] Find PRESENTATION Displays 1
+[2023-06-09 17:30:18.831] [15300] [INFO] [NRSDK] Display Type 2
+[2023-06-09 17:30:19.081] [15300] [INFO] [NRSDK] OnDisplayEvent: id:0 ev:3
+[2023-06-09 17:30:19.082] [15300] [INFO] [NRSDK] NRDisplay RUN!
+[2023-06-09 17:30:19.108] [15300] [INFO] [NRSDK] NRController START!
+[2023-06-09 17:30:19.108] [15300] [INFO] [NRSDK] controller initialize finish.
+[2023-06-09 17:30:19.119] [15300] [INFO] [NRSDK] load tracking finish.
+[2023-06-09 17:30:19.123] [15475] [INFO] [NRSDK] Receiving data 1: Same
+[2023-06-09 17:30:19.123] [15300] [INFO] [NRSDK] NRController RUN!
+[2023-06-09 17:30:19.124] [15475] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 17:30:19.125] [15475] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 17:30:19.250] [15267] [INFO] [NRSDK] Turn Screen On 0
+[2023-06-09 17:30:19.250] [15267] [INFO] [NRSDK] Display 1
+[2023-06-09 17:30:19.384] [15338] [INFO] [NRSDK] NRRendering START!
+[2023-06-09 17:30:19.395] [15338] [INFO] [NRSDK] Vsync initializing
+[2023-06-09 17:30:19.395] [15338] [INFO] [NRSDK] Vsync device type [2]
+[2023-06-09 17:30:19.401] [15338] [INFO] [NRSDK] Vsync got handle, work type = 0
+[2023-06-09 17:30:19.405] [15338] [INFO] [NRSDK] Generic Control open with handle
+[2023-06-09 17:30:19.405] [15338] [INFO] [NRSDK] Vsync initialized
+[2023-06-09 17:30:19.407] [15338] [INFO] [NRSDK] hardware is:qcom
+[2023-06-09 17:30:19.414] [15338] [INFO] [NRSDK] Vsync starting
+[2023-06-09 17:30:19.414] [15338] [INFO] [NRSDK] Generic Control callback true
+[2023-06-09 17:30:19.414] [15338] [INFO] [NRSDK] Vsync started
+[2023-06-09 17:30:19.414] [15338] [INFO] [NRSDK] NRRendering RUN!
+[2023-06-09 17:30:19.416] [15447] [WARN] [NRSDK] Heartbeat recover from long sleep:185577497695144 0
+[2023-06-09 17:30:19.419] [15478] [INFO] [NRSDK] Switch to display interrupt type=2.
+[2023-06-09 17:30:19.732] [15452] [WARN] [NRSDK] IMU frequency = 919 Hz < 1000 Hz, prev ts = 41541 ms, curr ts = 42541 ms
+[2023-06-09 17:30:19.760] [15338] [INFO] [NRSDK] Start rendering
+[2023-06-09 17:30:19.762] [15479] [INFO] [NRSDK] current is 0
+[2023-06-09 17:30:19.777] [15479] [INFO] [NRSDK] Start to display on screen
+[2023-06-09 17:30:28.125] [15475] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 17:30:28.326] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:30:31.127] [15475] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 17:30:34.134] [15475] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 17:30:38.334] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:30:39.777] [15479] [INFO] [NRSDK] skip: 0
+[2023-06-09 17:30:40.703] [15447] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 17:30:46.124] [15475] [INFO] [NRSDK] Receiving data 1: OK
+[2023-06-09 17:30:48.345] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:30:52.127] [15475] [INFO] [NRSDK] Receiving data 2: OK
+[2023-06-09 17:30:53.732] [15452] [WARN] [NRSDK] IMU frequency = 942 Hz < 1000 Hz, prev ts = 75541 ms, curr ts = 76541 ms
+[2023-06-09 17:30:58.145] [15475] [INFO] [NRSDK] Receiving data 3: OK
+[2023-06-09 17:30:58.357] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:30:59.794] [15479] [INFO] [NRSDK] skip: 0
+[2023-06-09 17:31:04.495] [15447] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 17:31:04.611] [15448] [WARN] [NRSDK] [Heartbeat] timeout.
+[2023-06-09 17:31:04.612] [15448] [ERROR] [NRSDK] Set Property 39 185622643523199 failed
+[2023-06-09 17:31:04.712] [15448] [WARN] [NRSDK] [Heartbeat] timeout.
+[2023-06-09 17:31:04.712] [15448] [ERROR] [NRSDK] Set Property 39 185622743627418 failed
+[2023-06-09 17:31:04.812] [15448] [WARN] [NRSDK] [Heartbeat] timeout.
+[2023-06-09 17:31:04.812] [15448] [ERROR] [NRSDK] Set Property 39 185622843707262 failed
+[2023-06-09 17:31:05.004] [15447] [WARN] [NRSDK] MSG_ID[1813315584] no parser
+[2023-06-09 17:31:05.005] [15447] [INFO] [NRSDK] Notify Key Event: 110000
+[2023-06-09 17:31:05.732] [15452] [WARN] [NRSDK] IMU frequency = 926 Hz < 1000 Hz, prev ts = 87541 ms, curr ts = 88541 ms
+[2023-06-09 17:31:08.421] [15448] [INFO] [NRSDK] Glasses heartbeat, response status true
+[2023-06-09 17:31:09.019] [15447] [WARN] [NRSDK] Glasses are disconnected!
+[2023-06-09 17:31:09.019] [15448] [ERROR] [NRSDK] Generic Control write error len = -1, error(19), No such device
+[2023-06-09 17:31:09.019] [15448] [ERROR] [NRSDK] Set Property 39 185627103194083 failed
+[2023-06-09 17:31:09.038] [15458] [INFO] [NRSDK] NRRendering STOP!
+[2023-06-09 17:31:09.038] [15458] [INFO] [NRSDK] Stop rendering...
+[2023-06-09 17:31:09.051] [15303] [WARN] [NRSDK] QuitApp!
+[2023-06-09 17:31:09.051] [15303] [WARN] [NRSDK] QuitApp reason=1!
+[2023-06-09 17:31:09.053] [15479] [INFO] [NRSDK] Quit rendering.
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Rendering stopped.
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Vsync stopping
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Vsync stopped
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Release resources.
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Vsync releasing
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] Vsync released
+[2023-06-09 17:31:09.053] [15458] [INFO] [NRSDK] NRRendering RELEASE!
+[2023-06-09 17:31:09.055] [15458] [INFO] [NRSDK] NRTracking STOP!
+[2023-06-09 17:31:09.055] [15458] [INFO] [NRSDK] IMU stopping
+[2023-06-09 17:31:09.055] [15458] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:31:09.055] [15458] [INFO] [NRSDK] IMU stopped
+[2023-06-09 17:31:09.056] [15458] [INFO] [NRSDK] IMU releasing
+[2023-06-09 17:31:09.056] [15458] [INFO] [NRSDK] IMU released
+[2023-06-09 17:31:09.056] [15458] [INFO] [NRSDK] NRTracking RELEASE!
+[2023-06-09 17:31:09.057] [15441] [INFO] [NRSDK] NRGlassesControl thread end
+[2023-06-09 17:31:09.057] [15458] [INFO] [NRSDK] NRGlassesControl STOP!
+[2023-06-09 17:31:09.057] [15458] [INFO] [NRSDK] NRGlassesControl RELEASE!
+[2023-06-09 17:31:09.058] [15458] [INFO] [NRSDK] NRHMD STOP!
+[2023-06-09 17:31:09.058] [15458] [INFO] [NRSDK] NRHMD RELEASE!
+[2023-06-09 17:31:09.059] [15303] [WARN] [NRSDK] QuitApp!
+[2023-06-09 17:31:09.059] [15303] [WARN] [NRSDK] QuitApp reason=2!
+[2023-06-09 17:31:09.059] [15458] [INFO] [NRSDK] NRController STOP!
+[2023-06-09 17:31:09.121] [15448] [ERROR] [NRSDK] Set Property 39 185627203872104 failed
+[2023-06-09 17:31:09.140] [15267] [INFO] [NRSDK] OnDisplayEvent: id:250 ev:2
+[2023-06-09 17:31:09.140] [15267] [INFO] [NRSDK] OnDisplayDeviceModify 250 2
+[2023-06-09 17:31:09.140] [15267] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 17:31:09.140] [15267] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 17:31:09.140] [15267] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 17:31:09.141] [15267] [INFO] [NRSDK] Display 2
+[2023-06-09 17:31:09.166] [15280] [ERROR] [NRSDK] SparrowFdClient remove connection status=0x30000
+[2023-06-09 17:31:09.167] [15481] [ERROR] [NRSDK] SparrowClient remove connection status=0x30000
+[2023-06-09 17:31:09.169] [15458] [INFO] [NRSDK] NRController RELEASE!
+[2023-06-09 17:31:09.172] [15458] [INFO] [NRSDK] NRDisplay STOP!
+[2023-06-09 17:31:09.172] [15458] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 17:31:09.172] [15458] [ERROR] [NRSDK] Set Property 38 0 failed
+[2023-06-09 17:31:09.172] [15458] [INFO] [NRSDK] Turn Screen Off 1
+[2023-06-09 17:31:09.172] [15267] [ERROR] [NRSDK] sdk stop display not present
+[2023-06-09 17:31:09.220] [15458] [INFO] [NRSDK] MCU stopping
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] Generic Control process stopped.
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] MCU stopped
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] MCU releasing
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] MCU released
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] NRDisplay RELEASE!
+[2023-06-09 17:31:09.221] [15458] [INFO] [NRSDK] NRSDK STOP!

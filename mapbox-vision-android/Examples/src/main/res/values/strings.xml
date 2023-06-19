@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vision Examples</string>
+    <string name="ext_video_example">External Video Source Example</string>
+    <string name="custom_detections_example">Custom Detections Example</string>
+    <string name="replay_custom_detections_example">Replay Custom Detections Example</string>
+    <string name="record_test_video">Recording Test Videos</string>
+    <string name="camera_calibration_progress">Camera calibration: %1$d %%</string>
+    <string name="vision_not_supported_title">Device is not supported</string>
+    <string name="vision_not_supported_message">Vision SDK does not support this device yet, check more details at &lt;a href=\"https://docs.mapbox.com/android/vision/overview/#requirements\">docs.mapbox.com&lt;/a></string>
+
+    <!--    Strings for android ar navigation layout-->
+    <string name="origin_coords"> Enter origin coordinates (lat,lng) </string>
+    <string name="dest_coords"> Enter destination coordinates (lat,lng) </string>
+    <string name="submit"> Submit </string>
+
+    <string name="eta"> ETA: </string>
+    <string name="distance"> Distance: </string>
+
+</resources>

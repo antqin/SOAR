@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.mapbox.vision.ar.view.gl.VisionArView
+        android:id="@+id/mapbox_ar_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/hamburgerButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="≡" />
+
+        <LinearLayout
+            android:id="@+id/inputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/originEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/origin_coords"
+                android:inputType="text"
+                android:maxLines="1"
+                android:minHeight="50dp" />
+
+            <EditText
+                android:id="@+id/destinationEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/dest_coords"
+                android:inputType="text"
+                android:maxLines="1"
+                android:minHeight="50dp" />
+
+            <Button
+                android:id="@+id/submitCoordinatesButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/submit" />
+
+        </LinearLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/recordings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|left"
+            android:src="@drawable/baseline_menu_24"
+            android:contentDescription="Recordings"
+            android:layout_margin="16dp" />
+
+<!--        <TextView-->
+<!--            android:id="@+id/eta_text_view"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/eta"-->
+<!--            android:textSize="16sp" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/distance_remaining_text_view"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/distance"-->
+<!--            android:textSize="16sp" />-->
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/poi_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@android:color/transparent"/>
+
+    <TextView
+        android:id="@+id/camera_calibration_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|start"
+        android:layout_margin="10dp"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:background="@android:color/transparent" />
+
+    <Button
+        android:id="@+id/poi_type_selection_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select POI Types"
+        android:layout_gravity="top|end"
+        android:layout_margin="16dp"/>
+
+</FrameLayout>
