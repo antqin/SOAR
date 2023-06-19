@@ -12,9 +12,9 @@ The goal of SOAR is to build an AR prototype that enhances the Mercedes driving 
 
 [Team Playlist](https://www.youtube.com/watch?v=8AYy-BcjRXg)
 
-[Documentation at the GitHub Wiki](https://github.com/cs210/2023-Mercedes1/wiki)
+[Documentation at the GitHub Wiki](https://github.com/antqin/SOAR/wiki)
 
-[Code Repository](https://github.com/cs210/2023-Mercedes1)
+[Code Repository](https://github.com/antqin/SOAR)
 
 ## Team Members
 
