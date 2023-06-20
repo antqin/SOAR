@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%89%20CS%20210%20Best%20Of-Category%3A%20Clear%20Value%20Proposition-brightgreen"/>
 
-## [Video Demo of product](https://youtu.be/9_zI74bV5Hs)
+## [Video Demo of product on AR glasses](https://youtu.be/9_zI74bV5Hs)
 
 ## Project Synopsis
 
