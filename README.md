@@ -4,6 +4,8 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%89%20CS%20210%20Best%20Of-Category%3A%20Clear%20Value%20Proposition-brightgreen"/>
 
+## [Video Demo of product](https://youtu.be/9_zI74bV5Hs)
+
 ## Project Synopsis
 
 The goal of SOAR is to build an AR prototype that enhances the Mercedes driving experience, improving modalities related to safety, drivability, and comfort. SOAR features driving navigation on the road (through a carpet path or floating instructions) to prevent the need to look down at your phone. We also introduce social annototations to driving by showing the users points of interest determined by their friends when they drive near them, allowing users to save POIs for future reference and add their own POIs for their friends to see. Ultimately, SOAR aims to produce a product that greatly enhances drivers’ experiences on the road in both comfort and entertainment.
